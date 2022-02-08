@@ -1,0 +1,2253 @@
+origen,producto,category
+Veracruz,Cintilla,pescado
+Veracruz,Lebrancha,pescado
+Veracruz,Robalo,pescado
+Veracruz,Rubia o Biajaiba,pescado
+Michoacán,Cazón con cabeza,pescado
+Veracruz,Cazón con cabeza,pescado
+Veracruz,Huachinango Golfo,pescado
+Veracruz,Mojarra Marina,pescado
+Veracruz,Pargo,pescado
+Veracruz,Pargo Habanero,pescado
+Veracruz,Sierra del Golfo,pescado
+Campeche,Pargo Habanero,pescado
+Campeche,Cazón con cabeza,pescado
+Campeche,Jurel,pescado
+Campeche,Mero,pescado
+Campeche,Pampano,pescado
+Campeche,Sierra del Golfo,pescado
+Campeche,Pargo Huachinango,pescado
+Campeche,Pargo,pescado
+Campeche,Mojarra Marina,pescado
+Michoacán,Huachinango Pacífico,pescado
+Michoacán,Lisa del Pacífico,pescado
+Colima,Cazón con cabeza,pescado
+Colima,Huachinango Pacífico,pescado
+Colima,Lisa del Pacífico,pescado
+Baja California Sur,Aleta de raya,pescado
+Baja California Sur,Atún,pescado
+Baja California Sur,Cazón sin cabeza,pescado
+Baja California Sur,Conejo,pescado
+Baja California Sur,Huachinango Pacífico,pescado
+Baja California Sur,Jurel,pescado
+Baja California Sur,Lisa del Pacífico,pescado
+Baja California Sur,Mero,pescado
+Baja California Sur,Mojarra Marina,pescado
+Baja California Sur,Pargo,pescado
+Baja California Sur,Pargo Habanero,pescado
+Baja California Sur,Pargo Huachinango,pescado
+Baja California Sur,Robalo,pescado
+Baja California Sur,Sierra del Pacífico,pescado
+Baja California Sur,Tiburón sin cabeza,pescado
+Baja California Sur,Vaqueta,pescado
+Baja California Sur,Huachinango Golfo,pescado
+Baja California Sur,Lisa del Golfo,pescado
+Baja California Sur,Sierra del Golfo,pescado
+Yucatán,Huachinango Golfo,pescado
+Yucatán,Lisa del Golfo,pescado
+Yucatán,Pampano,pescado
+Yucatán,Pargo Huachinango,pescado
+Yucatán,Robalo,pescado
+Yucatán,Trucha marina,pescado
+Yucatán,Cazón con cabeza,pescado
+Yucatán,Cazón sin cabeza,pescado
+Yucatán,Mero,pescado
+Yucatán,Mojarra Marina,pescado
+Yucatán,Pargo Habanero,pescado
+Yucatán,Peto o Carito,pescado
+Yucatán,Rubia o Biajaiba,pescado
+Yucatán,Sierra del Golfo,pescado
+Yucatán,Jurel,pescado
+Sinaloa,Huachinango Pacífico,pescado
+Sinaloa,Pargo Habanero,pescado
+Sinaloa,Robalo,pescado
+Tamaulipas,Bandera,pescado
+Tamaulipas,Jurel,pescado
+Tamaulipas,Mero,pescado
+Tamaulipas,Mojarra Marina,pescado
+Veracruz,Bandera,pescado
+Veracruz,Jurel,pescado
+Veracruz,Mero,pescado
+Veracruz,Trucha marina,pescado
+Veracruz,Atún,pescado
+Veracruz,Besugo,pescado
+Veracruz,Pampano,pescado
+Veracruz,Camarón coctel,crustaceos
+Veracruz,Camarón chico s/cabeza,crustaceos
+Veracruz,Camarón mediano c/cabeza,crustaceos
+Veracruz,Camarón mediano s/cabeza,crustaceos
+Veracruz,Camarón Pacotilla,crustaceos
+Veracruz,Jaiba en pulpa,crustaceos
+Veracruz,Jaiba entera,crustaceos
+Veracruz,Camarón grande c/cabeza,crustaceos
+Michoacán,Langosta entera cocida,crustaceos
+Michoacán,Langostino,crustaceos
+Michoacán,Tenazas de cangrejo,crustaceos
+Baja California Sur,Camarón chico s/cabeza,crustaceos
+Baja California Sur,Camarón grande s/cabeza,crustaceos
+Baja California Sur,Camarón mediano s/cabeza,crustaceos
+Baja California Sur,Cola de langosta,crustaceos
+Baja California Sur,Jaiba entera,crustaceos
+Baja California Sur,Langosta,crustaceos
+Baja California Sur,Langosta entera cocida,crustaceos
+Campeche,Camarón grande s/cabeza,crustaceos
+Campeche,Camarón mediano s/cabeza,crustaceos
+Campeche,Camaron p/bar y bot,crustaceos
+Yucatán,Camarón grande s/cabeza,crustaceos
+Yucatán,Camarón mediano s/cabeza,crustaceos
+Campeche,Camarón coctel,crustaceos
+Sinaloa,Jaiba en pulpa,crustaceos
+Sinaloa,Langostino,crustaceos
+Tamaulipas,Jaiba entera,crustaceos
+Tamaulipas,Jaiba en pulpa,crustaceos
+Veracruz,Camarón chico c/cabeza,crustaceos
+Veracruz,Camarón roca,crustaceos
+Veracruz,Camaron p/bar y bot,crustaceos
+Veracruz,Camarón grande s/cabeza,crustaceos
+Veracruz,Langostino,crustaceos
+Veracruz,Almeja gallo,moluscos
+Veracruz,Almeja negra,moluscos
+Veracruz,Calamar americano,moluscos
+Veracruz,Calamar gigante,moluscos
+Veracruz,Ostión con concha,moluscos
+Veracruz,Ostión sin concha,moluscos
+Michoacán,Ostión con concha,moluscos
+Michoacán,Pulpo fresco,moluscos
+Baja California Sur,Abulón,moluscos
+Baja California Sur,Almeja chocolata,moluscos
+Baja California Sur,Almeja pata de mula,moluscos
+Baja California Sur,Calamar americano,moluscos
+Baja California Sur,Calamar gigante,moluscos
+Baja California Sur,Callo de almeja,moluscos
+Baja California Sur,Ostión con concha,moluscos
+Baja California Sur,Ostión sin concha,moluscos
+Baja California Sur,Pulpo fresco,moluscos
+Baja California Sur,Almeja gallo,moluscos
+Yucatán,Caracol,moluscos
+Yucatán,Pulpo congelado,moluscos
+Yucatán,Pulpo fresco,moluscos
+Yucatán,Calamar gigante,moluscos
+Yucatán,Callo de almeja,moluscos
+Veracruz,Pulpo fresco,moluscos
+Veracruz,Almeja chirla,moluscos
+Baja California Sur,Filete de cazón o tiburón,filetes
+Baja California Sur,Filete de huachinango,filetes
+Baja California Sur,Filete de mero,filetes
+Yucatán,Filete de mero,filetes
+Yucatán,Filete de tilapia,filetes
+Tamaulipas,Filete de tilapia,filetes
+Tamaulipas,Cazón con cabeza,pescado
+Tamaulipas,Huachinango Golfo,pescado
+Tamaulipas,Lisa del Golfo,pescado
+Tamaulipas,Huachinango Pacífico,pescado
+Chiapas,Pargo,pescado
+Tabasco,Bandera,pescado
+Tabasco,Cazón con cabeza,pescado
+Tabasco,Cazón sin cabeza,pescado
+Campeche,Huachinango Golfo,pescado
+Campeche,Lisa del Golfo,pescado
+Quintana Roo,Mero,pescado
+Campeche,Robalo,pescado
+Sinaloa,Tiburón sin cabeza,pescado
+Sonora,Cazón sin cabeza,pescado
+Tabasco,Pargo,pescado
+Tabasco,Robalo,pescado
+Campeche,Tiburón sin cabeza,pescado
+Tabasco,Mojarra Marina,pescado
+Jalisco,Tiburón sin cabeza,pescado
+Tabasco,Huachinango Golfo,pescado
+Tabasco,Jurel,pescado
+Tabasco,Mero,pescado
+Tabasco,Tiburón sin cabeza,pescado
+Tabasco,Lisa del Golfo,pescado
+Campeche,Bandera,pescado
+Sinaloa,Cazón sin cabeza,pescado
+Baja California,Lisa del Pacífico,pescado
+Baja California,Huachinango Pacífico,pescado
+Sonora,Pargo,pescado
+Baja California,Robalo,pescado
+Sinaloa,Sierra del Pacífico,pescado
+No especificado,Pargo Habanero,pescado
+Yucatán,Pargo,pescado
+Chiapas,Huachinango Pacífico,pescado
+Sonora,Robalo,pescado
+Tamaulipas,Robalo,pescado
+No especificado,Cazón con cabeza,pescado
+No especificado,Huachinango Pacífico,pescado
+No especificado,Lisa del Pacífico,pescado
+Oaxaca,Huachinango Pacífico,pescado
+Oaxaca,Lisa del Pacífico,pescado
+Oaxaca,Sierra del Pacífico,pescado
+Oaxaca,Pargo Habanero,pescado
+Chiapas,Bandera,pescado
+Chiapas,Besugo,pescado
+Chiapas,Cazón con cabeza,pescado
+Chiapas,Huachinango Golfo,pescado
+Chiapas,Lebrancha,pescado
+Chiapas,Mojarra Marina,pescado
+Chiapas,Robalo,pescado
+Campeche,Trucha marina,pescado
+Chiapas,Trucha marina,pescado
+Chiapas,Sierra del Golfo,pescado
+Chiapas,Pargo Habanero,pescado
+Chiapas,Lisa del Golfo,pescado
+No especificado,Pargo,pescado
+Sinaloa,Atún,pescado
+Sinaloa,Bandera,pescado
+Sonora,Cazón con cabeza,pescado
+Guerrero,Cazón sin cabeza,pescado
+Sonora,Cazón tripa,pescado
+Guerrero,Huachinango Pacífico,pescado
+Guerrero,Jurel,pescado
+Sinaloa,Mojarra Marina,pescado
+Sinaloa,Pampano,pescado
+Guerrero,Sierra del Pacífico,pescado
+Guerrero,Tiburón sin cabeza,pescado
+Sinaloa,Lisa del Pacífico,pescado
+Sinaloa,Pargo Huachinango,pescado
+Sinaloa,Cazón tripa,pescado
+Baja California,Conejo,pescado
+Sinaloa,Pargo,pescado
+Sinaloa,Jurel,pescado
+Nayarit,Huachinango Pacífico,pescado
+Baja California,Jurel,pescado
+Baja California,Mojarra Marina,pescado
+Baja California,Cazón con cabeza,pescado
+Baja California,Pargo,pescado
+Jalisco,Huachinango Pacífico,pescado
+Baja California,Tiburón sin cabeza,pescado
+Baja California,Sierra del Pacífico,pescado
+Sinaloa,Conejo,pescado
+Tamaulipas,Camarón coctel,crustaceos
+Tamaulipas,Camarón mediano c/cabeza,crustaceos
+Tamaulipas,Camarón mediano s/cabeza,crustaceos
+No especificado,Cola de langosta,crustaceos
+No especificado,Langosta,crustaceos
+No especificado,Langosta entera cocida,crustaceos
+Tamaulipas,Camarón grande c/cabeza,crustaceos
+Sinaloa,Jaiba entera,crustaceos
+Tamaulipas,Camarón chico c/cabeza,crustaceos
+Sonora,Jaiba entera,crustaceos
+Sinaloa,Camarón chico c/cabeza,crustaceos
+Tamaulipas,Camarón grande s/cabeza,crustaceos
+Tabasco,Langostino,crustaceos
+Tamaulipas,Camarón chico s/cabeza,crustaceos
+Tabasco,Acamaya cruda,crustaceos
+Tamaulipas,Camarón Pacotilla,crustaceos
+Tamaulipas,Camarón roca,crustaceos
+Yucatán,Jaiba entera,crustaceos
+Sonora,Camarón chico c/cabeza,crustaceos
+Campeche,Jaiba entera,crustaceos
+Sinaloa,Camarón coctel,crustaceos
+Yucatán,Camarón chico c/cabeza,crustaceos
+Yucatán,Camarón chico s/cabeza,crustaceos
+Sinaloa,Camarón chico s/cabeza,crustaceos
+Tamaulipas,Camarón Macuil,crustaceos
+Sinaloa,Camarón mediano s/cabeza,crustaceos
+Sinaloa,Camarón grande s/cabeza,crustaceos
+Tamaulipas,Langostino,crustaceos
+Oaxaca,Camarón grande s/cabeza,crustaceos
+Oaxaca,Camarón mediano c/cabeza,crustaceos
+Oaxaca,Camarón mediano s/cabeza,crustaceos
+Oaxaca,Jaiba entera,crustaceos
+Tabasco,Camarón coctel,crustaceos
+Chiapas,Camarón mediano c/cabeza,crustaceos
+Chiapas,Jaiba entera,crustaceos
+Chiapas,Camarón coctel,crustaceos
+Tabasco,Jaiba entera,crustaceos
+Sinaloa,Camarón mediano c/cabeza,crustaceos
+Nayarit,Camarón coctel,crustaceos
+Nayarit,Camarón chico c/cabeza,crustaceos
+Baja California,Jaiba entera,crustaceos
+Sinaloa,Langosta,crustaceos
+Sinaloa,Langosta entera cocida,crustaceos
+No especificado,Almeja chirla,moluscos
+No especificado,Callo de almeja,moluscos
+Campeche,Caracol,moluscos
+Sonora,Calamar gigante,moluscos
+Campeche,Pulpo fresco,moluscos
+Campeche,Caracol burro,moluscos
+Veracruz,Almeja casco,moluscos
+Importación,Calamar americano,moluscos
+Sinaloa,Almeja chirla,moluscos
+Sinaloa,Almeja chocolata,moluscos
+Michoacán,Ancas de rana,moluscos
+Sinaloa,Caracol,moluscos
+Sinaloa,Caracol burro,moluscos
+Tamaulipas,Ostión sin concha,moluscos
+Sinaloa,Almeja negra,moluscos
+Tamaulipas,Calamar gigante,moluscos
+Sinaloa,Callo de almeja,moluscos
+Importación,Caracol,moluscos
+No especificado,Ostión con concha,moluscos
+No especificado,Pulpo fresco,moluscos
+Oaxaca,Pulpo fresco,moluscos
+Chiapas,Ostión sin concha,moluscos
+Chiapas,Caracol,moluscos
+Tamaulipas,Pulpo fresco,moluscos
+Sinaloa,Almeja pata de mula,moluscos
+Quintana Roo,Pulpo fresco,moluscos
+Baja California,Almeja chirla,moluscos
+Baja California,Almeja chocolata,moluscos
+Veracruz,Almeja pata de mula,moluscos
+Sinaloa,Calamar americano,moluscos
+Baja California,Almeja pata de mula,moluscos
+Tamaulipas,Filete de cazón o tiburón,filetes
+Michoacán,Filete de tilapia,filetes
+No especificado,Filete de cazón o tiburón,filetes
+No especificado,Filete de huachinango,filetes
+No especificado,Filete de mero,filetes
+No especificado,Filete de tilapia,filetes
+Sinaloa,Ancas de rana,filetes
+No especificado,Ancas de rana,filetes
+Yucatán,Filete de cazón o tiburón,filetes
+Sonora,Filete de cazón o tiburón,filetes
+Yucatán,Filete de huachinango,filetes
+Campeche,Filete de mero,filetes
+Importación,Ancas de rana,filetes
+Campeche,Filete de huachinango,filetes
+Oaxaca,Filete de cazón o tiburón,filetes
+Chiapas,Filete de cazón o tiburón,filetes
+Chiapas,Filete de tilapia,filetes
+Sinaloa,Filete de tilapia,filetes
+Tabasco,Sierra del Golfo,pescado
+Campeche,Sierra del Pacífico,pescado
+Sonora,Tiburón sin cabeza,pescado
+Tabasco,Aleta de raya,pescado
+Tabasco,Cojinuda,pescado
+Campeche,Lebrancha,pescado
+Sonora,Lisa del Pacífico,pescado
+Tamaulipas,Peto o Carito,pescado
+Tabasco,Rubia o Biajaiba,pescado
+Sonora,Sierra del Pacífico,pescado
+Tabasco,Trucha marina,pescado
+Yucatán,Bandera,pescado
+Nayarit,Huachinango Golfo,pescado
+Nayarit,Robalo,pescado
+Aguascalientes,Bacoca,pescado
+Nayarit,Sierra del Golfo,pescado
+Tamaulipas,Sargo,pescado
+Sonora,Lenguado grande,pescado
+Tamaulipas,Trucha marina,pescado
+Chiapas,Curbina,pescado
+Sinaloa,Aleta de raya,pescado
+Sinaloa,Bacoca,pescado
+Baja California Sur,Curbina,pescado
+Baja California Sur,Guitarra,pescado
+Baja California Sur,Huachinango grande,pescado
+Baja California Sur,Marlín,pescado
+Sinaloa,Mojarra plateada,pescado
+Sinaloa,Robalo chico,pescado
+Sinaloa,Robalo del pacífico,pescado
+Baja California Sur,Verdillo,pescado
+Colima,Tiburón sin cabeza,pescado
+Baja California Sur,Cazón tripa,pescado
+Sinaloa,Huachinango grande,pescado
+Baja California Sur,Pierna,pescado
+Sinaloa,Cóndor,pescado
+Sinaloa,Constantino,pescado
+Baja California Sur,Lisa macho,pescado
+Baja California Sur,Lenguado chico,pescado
+Baja California Sur,Lucero,pescado
+Sinaloa,Lisa macho,pescado
+Baja California Sur,Pargo blanco,pescado
+Baja California Sur,Ratón,pescado
+Baja California,Cazón tripa,pescado
+Baja California,Huachinango grande,pescado
+Baja California,Lisa macho,pescado
+Baja California,Pierna,pescado
+Baja California Sur,Pargo rojo,pescado
+Sinaloa,Camarones botalon,crustaceos
+Nayarit,Camarón grande c/cabeza,crustaceos
+Nayarit,Camarón grande s/cabeza,crustaceos
+Tabasco,Jaiba en pulpa,crustaceos
+Importación,Camarón mediano s/cabeza,crustaceos
+Nayarit,Camarón Pacotilla,crustaceos
+Yucatán,Jaiba en pulpa,crustaceos
+Tamaulipas,Camarones 16/20,crustaceos
+Tamaulipas,Camarones 21/25,crustaceos
+Tamaulipas,Camarones U15,crustaceos
+Tamaulipas,Camaron p/bar y bot,crustaceos
+Sinaloa,Camarones 16/20,crustaceos
+Sinaloa,Camarones 21/25,crustaceos
+Sinaloa,Camarones 26/30,crustaceos
+Sinaloa,Camarones 31/35,crustaceos
+Sinaloa,Camarones 41/50,crustaceos
+Sinaloa,Camarones U10,crustaceos
+Sinaloa,Camarones U12,crustaceos
+Sinaloa,Camarones U15,crustaceos
+Sonora,Camarón coctel,crustaceos
+Tamaulipas,Camarones U10,crustaceos
+Tamaulipas,Camarones 26/30,crustaceos
+Tamaulipas,Camarones 31/35,crustaceos
+Tamaulipas,Camarones U12,crustaceos
+Baja California,Langosta,crustaceos
+Tabasco,Camarón mediano c/cabeza,crustaceos
+Chiapas,Camarón mediano s/cabeza,crustaceos
+Sinaloa,Camarón s/cabeza coctelero de mar,crustaceos
+Sinaloa,Camarón grande c/cabeza,crustaceos
+Tamaulipas,Ostión con concha,moluscos
+Veracruz,Abadejo,pescado
+Veracruz,Bacalao,pescado
+Veracruz,Cojinuda,pescado
+Veracruz,Lenguado grande,pescado
+Veracruz,Peto o Carito,pescado
+Veracruz,Tiburon c/cabeza,pescado
+Veracruz,Mantarraya,pescado
+Veracruz,Cazón sin cabeza,pescado
+Veracruz,Tiburón sin cabeza,pescado
+Baja California Sur,Cabrillo,pescado
+Baja California Sur,Cochito o Cochino,pescado
+Baja California Sur,Lenguado grande,pescado
+Baja California Sur,Tiburon c/cabeza,pescado
+Baja California,Cazón sin cabeza,pescado
+Baja California,Mero,pescado
+Baja California,Pargo Habanero,pescado
+Veracruz,Bonito,pescado
+Veracruz,Cherna aleta amarilla,pescado
+Veracruz,Chucumite,pescado
+Veracruz,Gurrubata,pescado
+Veracruz,Medregal,pescado
+Michoacán,Lisa del Golfo,pescado
+Nayarit,Bacoca,pescado
+Nayarit,Constantino,pescado
+Nayarit,Curbina,pescado
+Nayarit,Mojarra plateada,pescado
+Nayarit,Pampano,pescado
+Nayarit,Pargo,pescado
+Nayarit,Robalo del pacífico,pescado
+Nayarit,Sierra del Pacífico,pescado
+Nayarit,Aleta de raya,pescado
+Nayarit,Chano,pescado
+Nayarit,Mojarra Marina,pescado
+Nayarit,Torito,pescado
+Campeche,Atún,pescado
+Tamaulipas,Abadejo,pescado
+Tamaulipas,Angelito,pescado
+Tamaulipas,Bacalao,pescado
+Tamaulipas,Bonito,pescado
+Tamaulipas,Cojinuda,pescado
+Tamaulipas,Chopa,pescado
+Tamaulipas,Lebrancha,pescado
+Tamaulipas,Medregal,pescado
+Tamaulipas,Negrillo,pescado
+Tamaulipas,Pampano,pescado
+Tamaulipas,Pargo,pescado
+Tamaulipas,Ratón,pescado
+Tamaulipas,Sierra del Golfo,pescado
+Yucatán,Besugo,pescado
+Sinaloa,Besugo,pescado
+Tamaulipas,Huachinango grande,pescado
+Tamaulipas,Pargo rojo,pescado
+Tamaulipas,Tiburon c/cabeza,pescado
+Veracruz,Chopa,pescado
+Veracruz,Sargo,pescado
+Veracruz,Aleta de raya,pescado
+Veracruz,Conejo,pescado
+Veracruz,Negrillo,pescado
+Veracruz,Lenguado chico,pescado
+Veracruz,Mojarra blanca,pescado
+Veracruz,Tiburón Majarro sin cabeza,pescado
+Veracruz,Tolete,pescado
+Veracruz,Tenazas de cangrejo,crustaceos
+Baja California Sur,Camarón grande c/cabeza,crustaceos
+Tamaulipas,Acamaya cruda,crustaceos
+Veracruz,Acamaya cruda,crustaceos
+Nayarit,Ostión con concha,moluscos
+Baja California Sur,Lenguado,filetes
+Baja California Sur,Curbina,filetes
+Tamaulipas,Filete de carpa,filetes
+Tamaulipas,Filete de huachinango,filetes
+Veracruz,Chopa,filetes
+Importación,Jurel,pescado
+Sinaloa,Rubia o Biajaiba,pescado
+Importación,Sargo,pescado
+Sonora,Huachinango Pacífico,pescado
+Tamaulipas,Lenguado chico,pescado
+Tamaulipas,Lenguado grande,pescado
+Oaxaca,Tiburon c/cabeza,pescado
+Chiapas,Robalo del pacífico,pescado
+Baja California Sur,Baqueta,pescado
+Sinaloa,Curbina,pescado
+Sonora,Cintilla,pescado
+Sinaloa,Lenguado chico,pescado
+Sinaloa,Mantarraya,pescado
+Sinaloa,Pargo rojo,pescado
+Baja California Sur,Pampano,pescado
+Sinaloa,Pargo blanco,pescado
+Baja California Sur,Rubia o Biajaiba,pescado
+Nayarit,Huachinango grande,pescado
+Baja California Sur,Mojarra plateada,pescado
+Tamaulipas,Cazón sin cabeza,pescado
+Sinaloa,Baqueta,pescado
+Tamaulipas,Camarones botalon,crustaceos
+Tamaulipas,Camarones 41/50,crustaceos
+Oaxaca,Camarón grande c/cabeza,crustaceos
+Chiapas,Camarón c/cabeza mediana,crustaceos
+Chiapas,Jaiba en pulpa,crustaceos
+Nayarit,Camarón c/cabeza mediana,crustaceos
+Nayarit,Camarón mediano c/cabeza,crustaceos
+Baja California Sur,Jaiba en pulpa,crustaceos
+Aguascalientes,Pulpo fresco,moluscos
+Tamaulipas,Almeja chocolata,moluscos
+Sinaloa,Ancas de rana,moluscos
+Tamaulipas,Caracol burro,moluscos
+Oaxaca,Ostión sin concha,moluscos
+Campeche,Calamar americano,moluscos
+Chiapas,Calamar americano,moluscos
+Chiapas,Ostión con concha,moluscos
+Baja California Sur,Almeja chirla,moluscos
+No especificado,Filete de carpa,filetes
+Michoacán,Mojarra rayada,filetes
+Sinaloa,Robalo,filetes
+Michoacán,Ancas de rana,filetes
+Importación,Filete de mero,filetes
+Sinaloa,Lenguado,filetes
+Tamaulipas,Mantarraya,filetes
+México,Bagre,filetes
+Sonora,Calamar,filetes
+Sonora,Cazón tripa,filetes
+Tamaulipas,Lisa,filetes
+Sonora,Robaleta,filetes
+Tamaulipas,Trucha,filetes
+Sonora,Lenguado,filetes
+Sonora,Angelito,filetes
+Sinaloa,Calamar,filetes
+Importación,Lenguado,filetes
+Tamaulipas,Plateado,filetes
+Chiapas,Chucumite,filetes
+Chiapas,Curbina,filetes
+Sinaloa,Filete de cazón o tiburón,filetes
+Sinaloa,Filete de carpa,filetes
+Nayarit,Filete de tilapia,filetes
+Michoacán,Filete de carpa,filetes
+Sinaloa,Torito,pescado
+Sonora,Guitarra,pescado
+México,Aleta de raya,pescado
+Chiapas,Camarón grande c/cabeza,crustaceos
+Chiapas,Camarón Pacotilla,crustaceos
+Tamaulipas,Camarón s/cabeza coctelero de mar,crustaceos
+Sinaloa,Camarón Macuil,crustaceos
+Sinaloa,Camarón Pacotilla,crustaceos
+Sinaloa,Camaron p/bar y bot,crustaceos
+Campeche,Camarón mediano c/cabeza,crustaceos
+Tabasco,Ostión sin concha,moluscos
+Sonora,Callo de almeja,moluscos
+Baja California Sur,Callo de hacha,moluscos
+Sinaloa,Callo de hacha,moluscos
+Sinaloa,Ostión sin concha,moluscos
+Campeche,Ostión sin concha,moluscos
+Chiapas,Pulpo fresco,moluscos
+Campeche,Pulpo congelado,moluscos
+Nayarit,Almeja pata de mula,moluscos
+Michoacán,Mojarra blanca,filetes
+Tamaulipas,Calamar,filetes
+Tamaulipas,Cazón tripa,filetes
+Tamaulipas,Lenguado,filetes
+Tamaulipas,Mojarra blanca,filetes
+Tamaulipas,Robaleta,filetes
+Veracruz,Trucha,filetes
+Sonora,Ancas de rana,filetes
+Tamaulipas,Filete de mero,filetes
+Veracruz,Robaleta,filetes
+Tamaulipas,Mojarra rayada,filetes
+Sinaloa,Bagre,filetes
+Sinaloa,Robaleta,filetes
+México,Filete de carpa,filetes
+Michoacán,Abadejo,filetes
+Yucatán,Cola de langosta,crustaceos
+Veracruz,Camarón c/cabeza mediana,crustaceos
+Veracruz,Caracol,moluscos
+Veracruz,Caracol burro,moluscos
+Veracruz,Pulpo congelado,moluscos
+Veracruz,Abulón,moluscos
+Veracruz,Almeja chocolata,moluscos
+Tamaulipas,Pulpo congelado,moluscos
+Veracruz,Filete de cazón o tiburón,filetes
+Veracruz,Filete de tilapia,filetes
+Veracruz,Lenguado,filetes
+Veracruz,Cazón tripa,filetes
+Veracruz,Mojarra rayada,filetes
+Baja California Sur,Mantarraya,filetes
+Campeche,Aleta de raya,pescado
+Tabasco,Besugo,pescado
+Campeche,Cojinuda,pescado
+Campeche,Peto o Carito,pescado
+Tabasco,Cintilla,pescado
+Veracruz,Pargo Huachinango,pescado
+Tabasco,Peto o Carito,pescado
+Campeche,Cazón tripa,pescado
+Tabasco,Cazón tripa,pescado
+Campeche,Tiburón Majarro sin cabeza,pescado
+Importación,Cazón sin cabeza,pescado
+Tamaulipas,Tiburón Majarro sin cabeza,pescado
+Tabasco,Pampano,pescado
+Chiapas,Tiburón Majarro sin cabeza,pescado
+Tamaulipas,Tiburón sin cabeza,pescado
+Yucatán,Huachinango Pacífico,pescado
+Sinaloa,Guitarra,pescado
+Sinaloa,Ratón,pescado
+Sinaloa,Lucero,pescado
+Sonora,Huachinango grande,pescado
+Michoacán,Atún,pescado
+Sonora,Aleta de raya,pescado
+Sonora,Lenguado chico,pescado
+Baja California Sur,Langostino,crustaceos
+Baja California,Ostión sin concha,moluscos
+Tabasco,Filete de cazón o tiburón,filetes
+Importación,Bagre,filetes
+Baja California Sur,Robalo del pacífico,pescado
+Yucatán,Medregal,pescado
+Nayarit,Baqueta,pescado
+Tamaulipas,Atún,pescado
+Tamaulipas,Besugo,pescado
+Tamaulipas,Conejo,pescado
+Tamaulipas,Mojarra blanca,pescado
+Tamaulipas,Rubia o Biajaiba,pescado
+Tamaulipas,Sardina,pescado
+Veracruz,Cabrillo,pescado
+Veracruz,Mojarra plateada,pescado
+Veracruz,Camarón Macuil,crustaceos
+Veracruz,Langosta,crustaceos
+Baja California Sur,Filete de cazón o tiburón,crustaceos
+Veracruz,Cazón tripa,pescado
+Veracruz,Cochito o Cochino,pescado
+Veracruz,Cherna aleta prieta,pescado
+Veracruz,Pargo rojo,pescado
+Veracruz,Angelito,pescado
+Veracruz,Marlín,pescado
+Baja California Sur,Cazón con cabeza,pescado
+Baja California Sur,Abadejo,pescado
+Tamaulipas,Cabrillo,pescado
+Veracruz,Lisa del Golfo,pescado
+Veracruz,Camarones 16/20,crustaceos
+Veracruz,Camarones 21/25,crustaceos
+Veracruz,Camarones 26/30,crustaceos
+Veracruz,Camarones 31/35,crustaceos
+Veracruz,Camarones 41/50,crustaceos
+Veracruz,Camarones 51/60,crustaceos
+Veracruz,Camarones botalon,crustaceos
+Veracruz,Camarones U10,crustaceos
+Veracruz,Camarones U12,crustaceos
+Veracruz,Camarones U15,crustaceos
+Veracruz,Cola de langosta,crustaceos
+Michoacán,Pulpo s/vísceras,moluscos
+Campeche,Curbina,filetes
+Campeche,Mojarra rayada,filetes
+Campeche,Raya,filetes
+Michoacán,Mojarra Marina,pescado
+Yucatán,Robalo del pacífico,pescado
+Veracruz,Guitarra,pescado
+Veracruz,Robalo chico,pescado
+Baja California Sur,Mantarraya,pescado
+Veracruz,Lisa macho,pescado
+Baja California,Callo de almeja,moluscos
+Yucatán,Curbina,filetes
+Sonora,Filete de huachinango,filetes
+Baja California,Lenguado,filetes
+Chiapas,Ronco amarillo,filetes
+Sinaloa,Lenguado grande,pescado
+Tamaulipas,Lisa del Pacífico,pescado
+Campeche,Lisa del Pacífico,pescado
+Tamaulipas,Aleta de raya,pescado
+Michoacán,Mero,pescado
+Distrito Federal,Aleta de raya,pescado
+Tabasco,Pargo Huachinango,pescado
+Sinaloa,Angelito,pescado
+Sinaloa,Gurrubata,pescado
+Baja California Sur,Bacoca,pescado
+Baja California,Mojarra plateada,pescado
+Baja California,Baqueta,pescado
+Baja California,Lucero,pescado
+Baja California,Pargo blanco,pescado
+Sinaloa,Pierna,pescado
+Baja California,Verdillo,pescado
+Baja California,Curbina,pescado
+Sonora,Conejo,pescado
+Baja California,Marlín,pescado
+Nayarit,Cazón sin cabeza,pescado
+Nayarit,Gurrubata,pescado
+Sonora,Jaiba en pulpa,crustaceos
+Sonora,Langostino,crustaceos
+Tamaulipas,Camarones 51/60,crustaceos
+Sinaloa,Langosta entera cruda,crustaceos
+Baja California Sur,Langosta entera cruda,crustaceos
+Sonora,Callo de hacha,moluscos
+Tamaulipas,Calamar americano,moluscos
+Sinaloa,Calamar gigante,moluscos
+Baja California,Robalo,filetes
+Sonora,Bagre,filetes
+Importación,Filete de huachinango,filetes
+Tamaulipas,Bagre,filetes
+Sinaloa,Lobina,filetes
+Campeche,Lenguado,filetes
+Baja California,Filete de huachinango,filetes
+Veracruz,Cóndor,pescado
+Veracruz,Torito,pescado
+Tlaxcala,Lisa del Golfo,pescado
+Sinaloa,Trucha marina,pescado
+Chiapas,Chucumite,pescado
+Chiapas,Lisa del Pacífico,pescado
+Chiapas,Mojarra blanca,pescado
+Chiapas,Mojarra plateada,pescado
+Guerrero,Huachinango grande,pescado
+Nayarit,Camarones 21/25,crustaceos
+Nayarit,Camarones 16/20,crustaceos
+Nayarit,Camarones U10,crustaceos
+Tabasco,Camarón Macuil,crustaceos
+Tamaulipas,Langosta,crustaceos
+Yucatán,Caracol burro,moluscos
+Baja California,Callo de hacha,moluscos
+Tamaulipas,Almeja chirla,moluscos
+Aguascalientes,Filete de cazón o tiburón,filetes
+Aguascalientes,Filete de huachinango,filetes
+Aguascalientes,Filete de mero,filetes
+Aguascalientes,Filete de tilapia,filetes
+Oaxaca,Langosta,crustaceos
+Baja California Sur,Pulpo s/vísceras,moluscos
+Oaxaca,Ostión con concha,moluscos
+Baja California Sur,Raya,filetes
+Baja California Sur,Pargo,filetes
+Nayarit,Filete de carpa,filetes
+Veracruz,Filete de mero,filetes
+Veracruz,Angelito,filetes
+Veracruz,Filete de carpa,filetes
+Sinaloa,Lisa del Golfo,pescado
+Aguascalientes,Huachinango Golfo,pescado
+Guerrero,Lenguado chico,pescado
+Guerrero,Rubia o Biajaiba,pescado
+Importación,Almeja chirla,moluscos
+Yucatán,Angelito,filetes
+Yucatán,Plateado,filetes
+Yucatán,Trucha,filetes
+Campeche,Camarón Pacotilla,crustaceos
+Veracruz,Bacoca,pescado
+Veracruz,Caracol chico,moluscos
+Veracruz,Pulpo s/vísceras,moluscos
+Sinaloa,Angelito,filetes
+Sonora,Filete de tilapia,filetes
+Sonora,Pulpo congelado,moluscos
+Sonora,Filete de mero,filetes
+Yucatán,Lenguado,filetes
+Yucatán,Lisa,filetes
+Michoacán,Huachinango grande,pescado
+Aguascalientes,Cherna aleta amarilla,pescado
+Aguascalientes,Bonito,pescado
+Aguascalientes,Cazón con cabeza,pescado
+Aguascalientes,Chucumite,pescado
+Aguascalientes,Pargo,pescado
+Aguascalientes,Jurel,pescado
+Aguascalientes,Robalo,pescado
+Aguascalientes,Mojarra plateada,pescado
+Aguascalientes,Medregal,pescado
+Aguascalientes,Sargo,pescado
+Veracruz,Langosta entera cocida,crustaceos
+Veracruz,Langosta entera cruda,crustaceos
+Veracruz,Curbina,pescado
+Veracruz,Sardina,pescado
+Yucatán,Pulpo s/vísceras,moluscos
+Baja California,Almeja casco,moluscos
+Sonora,Calamar americano,moluscos
+Importación,Ancas de rana,moluscos
+Sinaloa,Pulpo congelado,moluscos
+Michoacán,Filete de cazón o tiburón,filetes
+Campeche,Cazón tripa,filetes
+Sonora,Lisa,filetes
+Distrito Federal,Bagre,filetes
+Veracruz,Callo de almeja,moluscos
+Distrito Federal,Calamar americano,moluscos
+Yucatán,Pulpo c/vísceras,moluscos
+Importación,Calamar gigante,moluscos
+No especificado,Calamar gigante,moluscos
+Baja California,Ostión con concha,moluscos
+Importación,Calamar,filetes
+Baja California Sur,Mojarra rayada,filetes
+Campeche,Filete de tilapia,filetes
+Tamaulipas,Pargo Huachinango,pescado
+Yucatán,Aleta de raya,pescado
+Oaxaca,Aleta de raya,pescado
+Oaxaca,Cazón tripa,pescado
+Tabasco,Pargo Habanero,pescado
+Baja California Sur,Trucha marina,pescado
+Veracruz,Pargo blanco,pescado
+Colima,Langosta entera cocida,crustaceos
+Veracruz,Camarón s/cabeza coctelero de mar,crustaceos
+Michoacán,Langosta entera cruda,crustaceos
+Yucatán,Camaron p/bar y bot,crustaceos
+Aguascalientes,Camarón c/cabeza mediana,crustaceos
+Veracruz,Ancas de rana,moluscos
+Veracruz,Pulpo c/vísceras,moluscos
+Aguascalientes,Ostión sin concha,moluscos
+Sinaloa,Cazón con cabeza,pescado
+Baja California,Aleta de raya,pescado
+Sinaloa,Vaqueta,pescado
+Sinaloa,Tiburón Majarro sin cabeza,pescado
+Nacional,Camarón Pacotilla,crustaceos
+Baja California Sur,Camarones botalon,crustaceos
+Baja California Sur,Camarones U10,crustaceos
+Baja California Sur,Camarones U12,crustaceos
+Baja California,Atún,pescado
+Baja California,Pargo Huachinango,pescado
+Guanajuato,Cazón sin cabeza,pescado
+No especificado,Camarón mediano c/cabeza,crustaceos
+Yucatán,Camarón mediano c/cabeza,crustaceos
+Distrito Federal,Langosta,crustaceos
+Baja California,Jaiba en pulpa,crustaceos
+Sonora,Tiburón Majarro sin cabeza,pescado
+Veracruz,Ratón,pescado
+Veracruz,Huachinango grande,pescado
+Veracruz,Huachinango Pacífico,pescado
+Veracruz,Sierra del Pacífico,pescado
+Colima,Langostino,crustaceos
+Colima,Pulpo fresco,moluscos
+Guerrero,Cazón tripa,pescado
+Guerrero,Guitarra,pescado
+Yucatán,Ancas de rana,moluscos
+Sinaloa,Filete de huachinango,filetes
+Sinaloa,Filete de mero,filetes
+Baja California,Bacoca,pescado
+No especificado,Huachinango Golfo,pescado
+Baja California,Huachinango Golfo,pescado
+Sonora,Bandera,pescado
+Tamaulipas,Robalo chico,pescado
+Campeche,Huachinango Pacífico,pescado
+Guerrero,Pierna,pescado
+Guerrero,Curbina,pescado
+Sonora,Lucero,pescado
+Sonora,Pargo blanco,pescado
+Campeche,Langosta,crustaceos
+Campeche,Calamar gigante,moluscos
+Sonora,Mojarra blanca,filetes
+Sonora,Robalo,filetes
+Oaxaca,Filete de carpa,pescado
+Baja California Sur,Ancas de rana,filetes
+Baja California,Camarón chico s/cabeza,crustaceos
+Baja California,Camarón grande s/cabeza,crustaceos
+Baja California,Camarón mediano s/cabeza,crustaceos
+Michoacán,Langosta,crustaceos
+Campeche,Camarón grande c/cabeza,crustaceos
+Baja California,Calamar gigante,moluscos
+Baja California,Pulpo fresco,moluscos
+Baja California,Filete de cazón o tiburón,filetes
+Baja California,Filete de mero,filetes
+Tamaulipas,Curbina,pescado
+Tamaulipas,Chucumite,pescado
+Michoacán,Bandera,pescado
+Baja California Sur,Filete de tilapia,filetes
+Veracruz,Filete de huachinango,filetes
+Veracruz,Chacal,crustaceos
+Oaxaca,Robalo del pacífico,pescado
+Michoacán,Sierra del Pacífico,pescado
+Michoacán,Pargo,pescado
+Michoacán,Robalo,pescado
+Nayarit,Lisa del Pacífico,pescado
+San Luis Potosí,Lisa macho,pescado
+Sinaloa,Marlín,pescado
+Nayarit,Bandera,pescado
+San Luis Potosí,Tiburón sin cabeza,pescado
+Nayarit,Lisa macho,pescado
+Yucatán,Ostión sin concha,moluscos
+Sinaloa,Trucha,filetes
+Jalisco,Filete de carpa,filetes
+Importación,Tiburón Majarro sin cabeza,pescado
+Michoacán,Huachinango Golfo,pescado
+Nayarit,Pierna,pescado
+Colima,Huachinango grande,pescado
+Sonora,Mojarra plateada,pescado
+Nayarit,Pulpo fresco,moluscos
+Campeche,Rubia o Biajaiba,pescado
+Nayarit,Camarones botalon,crustaceos
+Baja California Sur,Pargo coconaco,pescado
+Baja California,Camarones botalon,crustaceos
+Importación,Lisa,filetes
+Campeche,Abadejo,pescado
+Campeche,Camarón chico s/cabeza,crustaceos
+Campeche,Camarón roca,crustaceos
+Campeche,Jaiba en pulpa,crustaceos
+Tabasco,Camarón grande c/cabeza,crustaceos
+Nayarit,Langostino,crustaceos
+Nayarit,Langosta entera cruda,crustaceos
+Sonora,Caracol,moluscos
+Nayarit,Caracol chico,moluscos
+Campeche,Medregal,filetes
+Campeche,Calamar,filetes
+Campeche,Cherna aleta amarilla,filetes
+Yucatán,Mojarra blanca,pescado
+Jalisco,Pampano,pescado
+Chiapas,Sierra del Pacífico,pescado
+Colima,Cazón sin cabeza,pescado
+Colima,Atún,pescado
+Yucatán,Camarones botalon,crustaceos
+Sonora,Curbina,pescado
+Colima,Langosta entera cruda,crustaceos
+Yucatán,Almeja chocolata,moluscos
+Nayarit,Cóndor,pescado
+Nayarit,Robalo chico,pescado
+Chiapas,Lenguado grande,pescado
+Yucatán,Tiburón sin cabeza,pescado
+Baja California Sur,Angelito,pescado
+Guerrero,Acamaya cruda,crustaceos
+Veracruz,Lucero,pescado
+Michoacán,Cazón sin cabeza,pescado
+Chiapas,Lenguado chico,pescado
+Chiapas,Jurel,pescado
+Tabasco,Tiburón Majarro sin cabeza,pescado
+Chiapas,Tiburón sin cabeza,pescado
+Tabasco,Lebrancha,pescado
+Jalisco,Vaqueta,pescado
+Sinaloa,Huachinango Golfo,pescado
+Colima,Bandera,pescado
+Coahuila,Huachinango Pacífico,pescado
+Importación,Langostino,crustaceos
+Sinaloa,Chano,pescado
+Nayarit,Pargo coconaco,pescado
+Nayarit,Cintilla,pescado
+Sinaloa,Camarones 51/60,crustaceos
+Colima,Camarón coctel,crustaceos
+Colima,Camarón chico c/cabeza,crustaceos
+Colima,Camarón chico s/cabeza,crustaceos
+Colima,Jaiba entera,crustaceos
+Chiapas,Camarones botalon,crustaceos
+Jalisco,Jaiba en pulpa,crustaceos
+Michoacán,Almeja chocolata,moluscos
+Michoacán,Ostión sin concha,moluscos
+Nayarit,Ostión sin concha,moluscos
+Jalisco,Pulpo fresco,moluscos
+Tabasco,Camarón Pacotilla,crustaceos
+Yucatán,Camarón Macuil,crustaceos
+Yucatán,Camarón Pacotilla,crustaceos
+Campeche,Mojarra blanca,filetes
+Campeche,Pargo,filetes
+Sonora,Trucha marina,pescado
+Tamaulipas,Gurrubata,pescado
+Nayarit,Tiburón sin cabeza,pescado
+Nayarit,Pargo rojo,pescado
+Baja California Sur,Camarones U15,crustaceos
+Baja California Sur,Camarones 16/20,crustaceos
+Baja California Sur,Camarones 21/25,crustaceos
+Baja California Sur,Camarones 26/30,crustaceos
+Campeche,Pulpo c/vísceras,moluscos
+Campeche,Camarón c/cabeza mediana,crustaceos
+Sonora,Caracol burro,moluscos
+Importación,Callo de hacha,moluscos
+Sonora,Ancas de rana,moluscos
+Sonora,Caracol chico,moluscos
+Baja California,Pulpo congelado,moluscos
+Importación,Mojarra blanca,filetes
+Colima,Camarón grande s/cabeza,crustaceos
+Nayarit,Filete de cazón o tiburón,filetes
+Tamaulipas,Cintilla,pescado
+Sinaloa,Cazón tripa,filetes
+Yucatán,Bacoca,pescado
+Campeche,Payaso,pescado
+Michoacán,Pampano,pescado
+Michoacán,Sierra del Golfo,pescado
+Sinaloa,Cabrillo,pescado
+Importación,Tiburón sin cabeza,pescado
+Importación,Camarones botalon,crustaceos
+Importación,Camarón coctel,crustaceos
+Campeche,Filete de cazón o tiburón,filetes
+Tabasco,Curbina,pescado
+Tabasco,Huachinango Pacífico,pescado
+Colima,Lisa macho,pescado
+Nayarit,Abadejo,pescado
+Chiapas,Cazón sin cabeza,pescado
+Baja California Sur,Bandera,pescado
+Sinaloa,Pargo coconaco,pescado
+Campeche,Ostión con concha,moluscos
+Veracruz,Raya,filetes
+Jalisco,Conejo,pescado
+Sonora,Vaqueta,pescado
+Sonora,Cabrillo,pescado
+Nayarit,Cazón tripa,pescado
+Sonora,Chano,pescado
+Colima,Pargo rojo,pescado
+Sinaloa,Cola de langosta,crustaceos
+Baja California,Langostino,crustaceos
+Sonora,Camarón mediano c/cabeza,crustaceos
+Importación,Callo de almeja,moluscos
+Tamaulipas,Caracol,moluscos
+México,Mojarra rayada,filetes
+Sonora,Baqueta,pescado
+Sonora,Pierna,pescado
+Sonora,Pampano,pescado
+Sonora,Bacoca,pescado
+Sonora,Angelito,pescado
+Chihuahua,Baqueta,pescado
+Colima,Mojarra plateada,pescado
+Colima,Robalo del pacífico,pescado
+Colima,Sierra del Pacífico,pescado
+Michoacán,Lenguado chico,pescado
+Hidalgo,Camarón coctel,crustaceos
+Yucatán,Camarones 16/20,crustaceos
+Sonora,Trucha,filetes
+Oaxaca,Cazón sin cabeza,pescado
+Yucatán,Sierra del Pacífico,pescado
+Campeche,Bonito,pescado
+Campeche,Cazón sin cabeza,pescado
+Nayarit,Camarón s/cabeza coctelero de mar,crustaceos
+Sonora,Pulpo fresco,moluscos
+Baja California Sur,Cazón tripa,filetes
+Baja California,Angelito,filetes
+Baja California,Cazón tripa,filetes
+Tamaulipas,Lobina,filetes
+Importación,Filete de tilapia,filetes
+Yucatán,Calamar,filetes
+Campeche,Chucumite,filetes
+Tabasco,Filete de tilapia,filetes
+Jalisco,Filete de tilapia,filetes
+Nayarit,Mantarraya,filetes
+Tamaulipas,Cazón tripa,pescado
+Distrito Federal,Cazón sin cabeza,pescado
+Sonora,Marlín,pescado
+Sonora,Jurel,pescado
+Sinaloa,Sargo,pescado
+Nayarit,Pargo blanco,pescado
+Nayarit,Atún,pescado
+Jalisco,Aleta de raya,pescado
+Distrito Federal,Curbina,pescado
+Baja California,Camarones U10,crustaceos
+Morelos,Mojarra rayada,filetes
+Sinaloa,Curbina,filetes
+Tamaulipas,Angelito,filetes
+Baja California Sur,Almeja campeche,moluscos
+Veracruz,Baqueta,pescado
+Yucatán,Camarón roca,crustaceos
+Sinaloa,Lebrancha,pescado
+Nayarit,Jurel,pescado
+Sonora,Lobina,filetes
+Sinaloa,Pargo,filetes
+Tamaulipas,Curbina,filetes
+Campeche,Robalo,filetes
+Campeche,Sargo,pescado
+Campeche,Lisa,filetes
+Michoacán,Jaiba entera,crustaceos
+Chiapas,Bacoca,pescado
+Baja California,Camarón roca,crustaceos
+Importación,Mero,pescado
+Campeche,Bagre,pescado
+Campeche,Ancas de rana,moluscos
+Yucatán,Ostión con concha,moluscos
+Baja California,Caracol,moluscos
+Importación,Camarón mediano c/cabeza,crustaceos
+Sinaloa,Camarón c/cabeza mediana,crustaceos
+Baja California Sur,Camarón coctel,crustaceos
+Chihuahua,Atún,pescado
+Veracruz,Almeja gallo,filetes
+Campeche,Chopa,pescado
+Tamaulipas,Pargo Habanero,pescado
+Yucatán,Almeja chirla,moluscos
+Baja California,Calamar americano,moluscos
+Veracruz,Vaqueta,pescado
+Nayarit,Verdillo,pescado
+Jalisco,Cazón sin cabeza,pescado
+Jalisco,Cazón tripa,pescado
+Baja California,Guitarra,pescado
+Jalisco,Huachinango grande,pescado
+Jalisco,Lenguado chico,pescado
+Jalisco,Mojarra plateada,pescado
+Jalisco,Pierna,pescado
+Baja California,Lenguado chico,pescado
+Baja California,Pargo rojo,pescado
+Importación,Verdillo,pescado
+Colima,Almeja pata de mula,moluscos
+Tamaulipas,Ancas de rana,moluscos
+Sonora,Almeja pata de mula,moluscos
+Baja California,Almeja campeche,moluscos
+Colima,Filete de carpa,filetes
+Colima,Filete de tilapia,filetes
+Baja California,Pargo,filetes
+Yucatán,Abadejo,pescado
+Sinaloa,Sierra del Golfo,pescado
+Jalisco,Lisa macho,pescado
+Colima,Robalo chico,pescado
+Baja California,Robalo del pacífico,pescado
+Baja California,Angelito,pescado
+Sonora,Camarón chico s/cabeza,crustaceos
+Tabasco,Camarón chico c/cabeza,crustaceos
+Veracruz,Lisa del Pacífico,pescado
+Oaxaca,Camarón c/cabeza mediana,crustaceos
+Tamaulipas,Cherna aleta amarilla,pescado
+Veracruz,Chano,pescado
+Campeche,Camarones 41/50,crustaceos
+Yucatán,Camarones 41/50,crustaceos
+Baja California,Robalo chico,pescado
+Michoacán,Marlín,pescado
+Baja California,Pampano,pescado
+Baja California,Langosta entera cocida,crustaceos
+Baja California,Lisa del Golfo,pescado
+Yucatán,Callo de hacha,moluscos
+Chiapas,Filete de carpa,filetes
+Yucatán,Camarón c/cabeza mediana,crustaceos
+Sonora,Camarón s/cabeza coctelero de mar,crustaceos
+Sonora,Camarón mediano s/cabeza,crustaceos
+Tamaulipas,Callo de almeja,moluscos
+Tamaulipas,Callo de hacha,moluscos
+Campeche,Bagre,filetes
+Importación,Filete de cazón o tiburón,filetes
+Colima,Verdillo,pescado
+Oaxaca,Camarón coctel,crustaceos
+Oaxaca,Langosta entera cruda,crustaceos
+Yucatán,Abulón,moluscos
+Jalisco,Ancas de rana,moluscos
+Yucatán,Cojinuda,pescado
+Campeche,Caracol,filetes
+Baja California Sur,Camarón Pacotilla,crustaceos
+Baja California Sur,Caracol,moluscos
+Baja California Sur,Medregal,filetes
+Chiapas,Camarón chico c/cabeza,crustaceos
+Oaxaca,Langosta entera cocida,crustaceos
+Baja California,Cola de langosta,crustaceos
+Baja California,Camarón grande c/cabeza,crustaceos
+Oaxaca,Curbina,pescado
+Oaxaca,Pargo Huachinango,pescado
+Oaxaca,Robalo chico,pescado
+Oaxaca,Huachinango Golfo,pescado
+Chiapas,Huachinango grande,pescado
+Chiapas,Pargo blanco,pescado
+Chiapas,Robalo chico,pescado
+Baja California,Abadejo,pescado
+Guanajuato,Lisa del Pacífico,pescado
+Chiapas,Cazón tripa,pescado
+Oaxaca,Conejo,pescado
+Yucatán,Curbina,pescado
+Tlaxcala,Jaiba entera,crustaceos
+Baja California,Lenguado grande,pescado
+Importación,Lisa del Pacífico,pescado
+Baja California Sur,Chano,pescado
+Baja California,Mantarraya,pescado
+Yucatán,Camarón coctel,crustaceos
+Importación,Camarón grande s/cabeza,crustaceos
+Baja California Sur,Bonito,pescado
+Baja California Sur,Cojinuda,pescado
+Baja California Sur,Chopa,pescado
+Baja California Sur,Payaso,pescado
+Baja California Sur,Peto o Carito,pescado
+Aguascalientes,Huachinango Pacífico,pescado
+Aguascalientes,Lisa del Golfo,pescado
+Baja California,Pargo coconaco,pescado
+Baja California,Cabrillo,pescado
+Colima,Pargo coconaco,pescado
+Oaxaca,Camarones botalon,crustaceos
+Baja California,Camarón c/cabeza mediana,crustaceos
+Sinaloa,Caracol chico,moluscos
+Chiapas,Pulpo congelado,moluscos
+Sinaloa,Verdillo,pescado
+Baja California Sur,Callo de almeja,pescado
+Baja California Sur,Acamaya cruda,crustaceos
+Baja California,Camarón s/cabeza coctelero de mar,crustaceos
+Zacatecas,Calamar americano,moluscos
+Colima,Jurel,pescado
+Baja California,Ratón,pescado
+Michoacán,Abulón,moluscos
+Yucatán,Mojarra blanca,filetes
+Colima,Baqueta,pescado
+Nayarit,Ratón,pescado
+Jalisco,Chano,pescado
+Chiapas,Filete de mero,filetes
+Chiapas,Filete de huachinango,filetes
+Chiapas,Mojarra blanca,filetes
+Baja California,Calamar,filetes
+Sinaloa,Mantarraya,filetes
+Oaxaca,Mantarraya,filetes
+Chiapas,Calamar,filetes
+Chiapas,Cazón tripa,filetes
+Importación,Cola de langosta,crustaceos
+Tamaulipas,Bonito,filetes
+Tlaxcala,Langosta,crustaceos
+Tlaxcala,Langostino,crustaceos
+Yucatán,Langosta,crustaceos
+Veracruz,Payaso,pescado
+Baja California,Peto o Carito,pescado
+Tamaulipas,Cazón con cabeza,crustaceos
+Campeche,Curbina,crustaceos
+Baja California,Langosta entera cruda,crustaceos
+Campeche,Baqueta,pescado
+Sinaloa,Ostión con concha,moluscos
+Sinaloa,Almeja gallo,moluscos
+Yucatán,Langostino,crustaceos
+Oaxaca,Camarón chico c/cabeza,crustaceos
+Chiapas,Langostino,crustaceos
+Baja California,Gurrubata,pescado
+Sinaloa,Cochito o Cochino,pescado
+Oaxaca,Camarón chico s/cabeza,crustaceos
+Baja California,Vaqueta,pescado
+Sonora,Gurrubata,pescado
+Baja California,Cochito o Cochino,pescado
+Baja California,Caracol chico,moluscos
+Sinaloa,Tiburon c/cabeza,pescado
+Yucatán,Camarón grande c/cabeza,crustaceos
+Sonora,Mantarraya,pescado
+Nayarit,Caracol burro,moluscos
+Baja California,Pulpo s/vísceras,moluscos
+Veracruz,Curbina,filetes
+Veracruz,Medregal,filetes
+Veracruz,Robalo,filetes
+Veracruz,Bagre,filetes
+Veracruz,Pargo,filetes
+Michoacán,Jaiba en pulpa,crustaceos
+Baja California,Mantarraya,filetes
+Importación,Pulpo fresco,moluscos
+Veracruz,Cherna aleta amarilla,filetes
+Quintana Roo,Rubia o Biajaiba,pescado
+Oaxaca,Filete de huachinango,filetes
+Oaxaca,Filete de tilapia,filetes
+Tabasco,Camarón chico s/cabeza,crustaceos
+Yucatán,Sargo,pescado
+Tamaulipas,Mantarraya,pescado
+Tabasco,Caracol,moluscos
+Tabasco,Pulpo congelado,moluscos
+Quintana Roo,Pargo Huachinango,pescado
+Jalisco,Sierra del Pacífico,pescado
+Importación,Ostión con concha,moluscos
+Tamaulipas,Abulón,moluscos
+Tlaxcala,Ostión sin concha,moluscos
+Baja California,Ancas de rana,moluscos
+Yucatán,Pargo,filetes
+Baja California,Bagre,filetes
+Sinaloa,Mojarra blanca,filetes
+Nayarit,Calamar,filetes
+Michoacán,Cazón tripa,filetes
+Veracruz,Chucumite,filetes
+Oaxaca,Mojarra Marina,pescado
+Baja California,Filete de carpa,filetes
+Yucatán,Lenguado grande,pescado
+Colima,Huachinango Golfo,pescado
+Colima,Lenguado chico,pescado
+Tabasco,Huachinango grande,pescado
+Nayarit,Lenguado grande,pescado
+Nayarit,Guitarra,pescado
+Michoacán,Camarón grande c/cabeza,crustaceos
+Oaxaca,Camarón Pacotilla,crustaceos
+Tamaulipas,Camarón c/cabeza mediana,crustaceos
+Yucatán,Calamar americano,moluscos
+Nayarit,Almeja chirla,moluscos
+Nayarit,Almeja chocolata,moluscos
+Yucatán,Huachinango grande,pescado
+Campeche,Curbina,pescado
+Tamaulipas,Langosta entera cocida,crustaceos
+Baja California,Cóndor,pescado
+Baja California,Sierra del Golfo,pescado
+Yucatán,Camarones 21/25,crustaceos
+Yucatán,Camarones 26/30,crustaceos
+Importación,Cazón tripa,filetes
+Michoacán,Mantarraya,filetes
+Baja California,Camarón chico c/cabeza,crustaceos
+Colima,Langosta,crustaceos
+Veracruz,Cherna aleta prieta,filetes
+San Luis Potosí,Camarón chico c/cabeza,crustaceos
+Yucatán,Camarones 31/35,crustaceos
+Yucatán,Camarones U10,crustaceos
+Yucatán,Camarones U15,crustaceos
+Baja California Sur,Almeja chocolata,filetes
+Sinaloa,Camarón roca,crustaceos
+Coahuila,Ostión con concha,moluscos
+Coahuila,Pulpo fresco,moluscos
+Veracruz,Bacalao,filetes
+Veracruz,Mojarra blanca,filetes
+Oaxaca,Abadejo,pescado
+Baja California,Mojarra blanca,pescado
+Nayarit,Cochito o Cochino,pescado
+Baja California,Bandera,pescado
+Michoacán,Mojarra plateada,pescado
+Colima,Calamar gigante,moluscos
+Michoacán,Callo de almeja,moluscos
+Yucatán,Sardina,pescado
+Colima,Mantarraya,pescado
+Michoacán,Camarón Macuil,crustaceos
+Michoacán,Camarones 21/25,crustaceos
+Michoacán,Camarones 31/35,crustaceos
+Michoacán,Camarones U10,crustaceos
+Michoacán,Camarones U15,crustaceos
+Coahuila,Cazón con cabeza,pescado
+Coahuila,Cazón sin cabeza,pescado
+Coahuila,Lisa del Pacífico,pescado
+Coahuila,Sierra del Pacífico,pescado
+Veracruz,Constantino,pescado
+Michoacán,Robalo del pacífico,pescado
+Tamaulipas,Tilapia mediana,pescado
+Oaxaca,Cola de langosta,crustaceos
+Baja California,Camarón coctel,crustaceos
+Baja California Sur,Caracol burro,moluscos
+Sinaloa,Pulpo fresco,moluscos
+Jalisco,Calamar gigante,moluscos
+Guerrero,Atún,pescado
+Baja California,Tiburon c/cabeza,pescado
+Nayarit,Mantarraya,pescado
+Baja California,Payaso,pescado
+Guanajuato,Atún,pescado
+Nayarit,Lenguado chico,pescado
+Sinaloa,Payaso,pescado
+Sonora,Ratón,pescado
+Chiapas,Pulpo c/vísceras,moluscos
+Baja California,Chano,pescado
+Yucatán,Gurrubata,pescado
+Baja California Sur,Pulpo congelado,moluscos
+Colima,Filete de cazón o tiburón,filetes
+Importación,Trucha,filetes
+México,Calamar,filetes
+Veracruz,Calamar,filetes
+Michoacán,Lobina,filetes
+Importación,Filete de carpa,filetes
+Campeche,Robalo chico,pescado
+Aguascalientes,Bandera,pescado
+Sonora,Tiburon c/cabeza,pescado
+Baja California,Besugo,pescado
+Michoacán,Pulpo congelado,moluscos
+Campeche,Pulpo s/vísceras,moluscos
+Colima,Sierra del Golfo,pescado
+Aguascalientes,Lenguado grande,pescado
+Aguascalientes,Jaiba entera,crustaceos
+Importación,Langosta entera cruda,crustaceos
+Baja California Sur,Pulpo c/vísceras,moluscos
+Michoacán,Plateado,filetes
+Tamaulipas,Chacal,crustaceos
+Tamaulipas,Sierra del Pacífico,pescado
+Baja California,Torito,pescado
+Colima,Pampano,pescado
+Distrito Federal,Rubia o Biajaiba,pescado
+Importación,Cazón con cabeza,pescado
+Nayarit,Cazón con cabeza,pescado
+Tlaxcala,Jaiba en pulpa,crustaceos
+Sonora,Almeja chirla,moluscos
+Jalisco,Lisa del Pacífico,pescado
+Michoacán,Filete de mero,filetes
+Tamaulipas,Bacalao,filetes
+Tabasco,Calamar americano,moluscos
+Tabasco,Pulpo fresco,moluscos
+Importación,Cintilla,pescado
+Tabasco,Conejo,pescado
+Guanajuato,Mojarra Marina,pescado
+Oaxaca,Camarón Macuil,crustaceos
+Oaxaca,Camarones U12,crustaceos
+Oaxaca,Camarones 16/20,crustaceos
+Oaxaca,Camarones U10,crustaceos
+Oaxaca,Camarones U15,crustaceos
+Colima,Almeja chirla,moluscos
+Colima,Almeja chocolata,moluscos
+Colima,Callo de hacha,moluscos
+Colima,Callo de almeja,moluscos
+Oaxaca,Callo de almeja,moluscos
+Oaxaca,Calamar americano,moluscos
+Oaxaca,Almeja negra,moluscos
+Campeche,Cintilla,pescado
+Campeche,Caracol chico,moluscos
+Oaxaca,Pargo rojo,pescado
+Oaxaca,Bandera,pescado
+Tabasco,Medregal,pescado
+Tabasco,Bonito,pescado
+Oaxaca,Huachinango grande,pescado
+Oaxaca,Trucha marina,pescado
+Baja California,Rubia o Biajaiba,pescado
+Guerrero,Bacoca,pescado
+Sonora,Rubia o Biajaiba,pescado
+Sonora,Camarones 51/60,crustaceos
+Yucatán,Conejo,pescado
+Oaxaca,Mojarra blanca,pescado
+Aguascalientes,Pargo Habanero,pescado
+Aguascalientes,Sierra del Golfo,pescado
+Sinaloa,Abadejo,pescado
+Tabasco,Camarón roca,crustaceos
+Oaxaca,Langostino,crustaceos
+Baja California,Abulón,moluscos
+Oaxaca,Abulón,moluscos
+Baja California,Caracol burro,moluscos
+Baja California,Camarones 21/25,crustaceos
+Baja California,Camarones 51/60,crustaceos
+Baja California,Camarones U12,crustaceos
+Nayarit,Caracol,moluscos
+Oaxaca,Filete de carpa,filetes
+Michoacán,Tiburon c/cabeza,pescado
+Oaxaca,Calamar,filetes
+Campeche,Bacalao,pescado
+Tamaulipas,Cola de langosta,crustaceos
+Oaxaca,Mojarra plateada,pescado
+Oaxaca,Pargo,pescado
+Oaxaca,Robalo,pescado
+Importación,Pulpo s/vísceras,moluscos
+Importación,Pulpo congelado,moluscos
+Sonora,Camarón Pacotilla,crustaceos
+Importación,Caracol burro,moluscos
+Baja California,Almeja negra,moluscos
+Distrito Federal,Caracol,moluscos
+Distrito Federal,Pulpo fresco,moluscos
+Yucatán,Ratón,pescado
+Michoacán,Bagre,pescado
+Sonora,Ostión sin concha,moluscos
+Importación,Ostión sin concha,moluscos
+Campeche,Medregal,pescado
+Oaxaca,Jurel,pescado
+Oaxaca,Abadejo,filetes
+Sonora,Cochito o Cochino,pescado
+Aguascalientes,Tiburón sin cabeza,pescado
+Nayarit,Filete de huachinango,filetes
+Nayarit,Filete de mero,filetes
+Colima,Tiburon c/cabeza,pescado
+Tamaulipas,Marlín,pescado
+Michoacán,Cazón con cabeza,moluscos
+Importación,Robalo,pescado
+Michoacán,Sargo,pescado
+Oaxaca,Filete de mero,filetes
+Oaxaca,Raya,filetes
+Oaxaca,Pargo,filetes
+Tabasco,Robalo chico,pescado
+Sonora,Atún,pescado
+Aguascalientes,Pampano,pescado
+Aguascalientes,Pargo Huachinango,pescado
+Veracruz,Plateado,filetes
+Campeche,Trucha,filetes
+Sonora,Lisa macho,pescado
+Guerrero,Mantarraya,pescado
+Tabasco,Bacalao,pescado
+Colima,Bacoca,pescado
+Colima,Guitarra,pescado
+Baja California,Camarones 41/50,crustaceos
+Campeche,Cherna aleta amarilla,pescado
+Oaxaca,Mero,pescado
+Yucatán,Bacalao,pescado
+Baja California Sur,Camarón chico s/cabeza,pescado
+Chiapas,Mero,pescado
+Importación,Rubia o Biajaiba,pescado
+Campeche,Besugo,pescado
+Yucatán,Cintilla,pescado
+Yucatán,Tenazas de cangrejo,crustaceos
+Guerrero,Langostino,crustaceos
+Chiapas,Cola de langosta,crustaceos
+Chiapas,Langosta entera cocida,crustaceos
+Jalisco,Camarón coctel,crustaceos
+Chiapas,Pampano,pescado
+Guanajuato,Mero,pescado
+Coahuila,Huachinango Golfo,pescado
+Tabasco,Atún,pescado
+Oaxaca,Jaiba en pulpa,crustaceos
+Chiapas,Camarones U10,crustaceos
+Importación,Camarón c/cabeza mediana,crustaceos
+Oaxaca,Camarones 21/25,crustaceos
+Chiapas,Calamar gigante,moluscos
+Baja California Sur,Cabrillo,moluscos
+Importación,Robalo chico,pescado
+Importación,Camarones 51/60,crustaceos
+Importación,Almeja pata de mula,moluscos
+Tamaulipas,Cherna aleta prieta,pescado
+Yucatán,Atún,pescado
+Veracruz,Verdillo,pescado
+Oaxaca,Cazón con cabeza,pescado
+Oaxaca,Tiburón sin cabeza,pescado
+Oaxaca,Camarones 26/30,crustaceos
+Chiapas,Langosta entera cruda,crustaceos
+Guerrero,Robalo del pacífico,pescado
+Baja California Sur,Bagre,filetes
+Veracruz,Callo de hacha,moluscos
+Michoacán,Camarón chico c/cabeza,crustaceos
+Michoacán,Camarón mediano c/cabeza,crustaceos
+Michoacán,Camaron p/bar y bot,crustaceos
+Michoacán,Camarón Pacotilla,crustaceos
+Chiapas,Camarón chico s/cabeza,crustaceos
+Chiapas,Camarón grande s/cabeza,crustaceos
+Chiapas,Callo de almeja,moluscos
+Zacatecas,Filete de cazón o tiburón,filetes
+Michoacán,Calamar,filetes
+Importación,Mojarra Marina,pescado
+Guerrero,Baqueta,pescado
+Guerrero,Robalo chico,pescado
+Chiapas,Chopa,pescado
+Chiapas,Gurrubata,pescado
+Guerrero,Robalo,pescado
+Guerrero,Lisa del Golfo,pescado
+Yucatán,Filete de carpa,filetes
+Sonora,Pargo rojo,pescado
+Sonora,Verdillo,pescado
+Campeche,Camarón chico c/cabeza,crustaceos
+Campeche,Camarón s/cabeza coctelero de mar,crustaceos
+Tamaulipas,Tenazas de cangrejo,crustaceos
+Campeche,Ronco amarillo,filetes
+Tabasco,Trucha,filetes
+Baja California,Constantino,pescado
+Colima,Pargo blanco,pescado
+Sonora,Camarón grande c/cabeza,crustaceos
+Sonora,Camarón grande s/cabeza,crustaceos
+Sinaloa,Peto o Carito,pescado
+Importación,Camarón Pacotilla,crustaceos
+Yucatán,Cazón tripa,pescado
+Campeche,Huachinango grande,pescado
+Yucatán,Bonito,pescado
+Tabasco,Tiburon c/cabeza,pescado
+Michoacán,Chano,pescado
+Importación,Robalo del pacífico,pescado
+Jalisco,Langosta entera cruda,crustaceos
+Oaxaca,Calamar gigante,moluscos
+Oaxaca,Caracol burro,moluscos
+Campeche,Mantarraya,pescado
+Michoacán,Jurel,pescado
+Chiapas,Aleta de raya,pescado
+Campeche,Gurrubata,pescado
+Oaxaca,Almeja pata de mula,moluscos
+Chiapas,Ancas de rana,filetes
+Nayarit,Jaiba entera,crustaceos
+Jalisco,Almeja chirla,moluscos
+Sonora,Abadejo,filetes
+Campeche,Pargo rojo,pescado
+Michoacán,Pargo blanco,pescado
+Aguascalientes,Cazón sin cabeza,pescado
+Sonora,Cóndor,pescado
+Aguascalientes,Sierra del Pacífico,pescado
+Campeche,Tenazas de cangrejo,crustaceos
+Aguascalientes,Lisa del Pacífico,pescado
+Sinaloa,Acamaya cruda,crustaceos
+Yucatán,Pierna,pescado
+Tabasco,Camarón grande s/cabeza,crustaceos
+Baja California Sur,Camarón mediano c/cabeza,crustaceos
+Tabasco,Chopa,pescado
+Tabasco,Gurrubata,pescado
+Importación,Camarones 41/50,crustaceos
+Michoacán,Caracol chico,moluscos
+México,Filete de tilapia,filetes
+Chiapas,Camarón roca,crustaceos
+Jalisco,Almeja negra,moluscos
+Jalisco,Callo de hacha,moluscos
+Oaxaca,Caracol,moluscos
+Oaxaca,Almeja chirla,moluscos
+Oaxaca,Pulpo congelado,moluscos
+Michoacán,Tiburón Majarro sin cabeza,pescado
+Michoacán,Pargo coconaco,pescado
+Distrito Federal,Tiburón sin cabeza,pescado
+Guerrero,Langosta entera cruda,crustaceos
+Zacatecas,Ostión con concha,moluscos
+Tabasco,Ostión con concha,moluscos
+Campeche,Lenguado grande,pescado
+San Luis Potosí,Camarón chico s/cabeza,crustaceos
+San Luis Potosí,Camarón Pacotilla,crustaceos
+Michoacán,Acamaya cruda,crustaceos
+Sinaloa,Abulón,moluscos
+Oaxaca,Mojarra blanca,filetes
+Tabasco,Sierra del Pacífico,pescado
+Michoacán,Camarón coctel,crustaceos
+Michoacán,Camarón chico s/cabeza,crustaceos
+Michoacán,Camarón grande s/cabeza,crustaceos
+Michoacán,Camarón mediano s/cabeza,crustaceos
+Distrito Federal,Camarón c/cabeza mediana,crustaceos
+Distrito Federal,Camarón coctel,crustaceos
+Distrito Federal,Camarón chico c/cabeza,crustaceos
+Distrito Federal,Camarón chico s/cabeza,crustaceos
+Distrito Federal,Camarón grande s/cabeza,crustaceos
+Distrito Federal,Camarón mediano s/cabeza,crustaceos
+Distrito Federal,Camarón grande c/cabeza,crustaceos
+Distrito Federal,Camarón mediano c/cabeza,crustaceos
+Distrito Federal,Almeja chirla,moluscos
+Distrito Federal,Callo de almeja,moluscos
+Guerrero,Pulpo fresco,moluscos
+Importación,Cazón tripa,pescado
+No especificado,Sierra del Golfo,pescado
+Baja California,Camarón mediano c/cabeza,crustaceos
+Sinaloa,Pulpo s/vísceras,moluscos
+Michoacán,Caracol burro,moluscos
+Campeche,Cherna aleta prieta,pescado
+Veracruz,Almeja campeche,moluscos
+Veracruz,Cazón tripa,moluscos
+Campeche,Abulón,moluscos
+Aguascalientes,Aleta de raya,pescado
+Jalisco,Tiburon c/cabeza,pescado
+Tamaulipas,Chucumite,filetes
+Chiapas,Mantarraya,pescado
+Michoacán,Pargo rojo,pescado
+Chiapas,Baqueta,pescado
+Sonora,Filete de carpa,filetes
+Baja California,Trucha,filetes
+Yucatán,Caracol chico,moluscos
+Importación,Pampano,pescado
+Importación,Camarón chico s/cabeza,crustaceos
+Jalisco,Camarón grande c/cabeza,crustaceos
+Baja California Sur,Calamar,filetes
+Sonora,Langosta,crustaceos
+Campeche,Langosta entera cocida,crustaceos
+No especificado,Abadejo,filetes
+Sonora,Camarones U12,crustaceos
+Sonora,Camarones U10,crustaceos
+Yucatán,Cochito o Cochino,pescado
+Michoacán,Camarón c/cabeza mediana,crustaceos
+Veracruz,Pierna,pescado
+México,Ancas de rana,moluscos
+Tabasco,Lisa,filetes
+Oaxaca,Lisa del Golfo,pescado
+Tabasco,Lisa del Pacífico,pescado
+Sonora,Abadejo,pescado
+Tamaulipas,Lisa macho,pescado
+Sinaloa,Cintilla,pescado
+Campeche,Abadejo,filetes
+Campeche,Filete de carpa,filetes
+Nayarit,Camarón mediano s/cabeza,crustaceos
+Baja California,Almeja gallo,moluscos
+Guanajuato,Huachinango Golfo,pescado
+Guanajuato,Lisa del Golfo,pescado
+Guanajuato,Sierra del Golfo,pescado
+Campeche,Pargo coconaco,pescado
+Sonora,Robalo del pacífico,pescado
+Importación,Sierra del Pacífico,pescado
+San Luis Potosí,Camarón mediano s/cabeza,crustaceos
+Nacional,Cazón sin cabeza,pescado
+Sonora,Camarones 31/35,crustaceos
+Sonora,Camarones 41/50,crustaceos
+Nayarit,Lisa del Golfo,pescado
+Michoacán,Tiburón sin cabeza,pescado
+Tabasco,Bacoca,pescado
+Tabasco,Cherna aleta amarilla,pescado
+Colima,Chano,pescado
+Aguascalientes,Ancas de rana,moluscos
+No especificado,Cintilla,pescado
+No especificado,Jurel,pescado
+No especificado,Pampano,pescado
+No especificado,Peto o Carito,pescado
+Jalisco,Bandera,pescado
+Nacional,Constantino,pescado
+Guerrero,Filete de mero,filetes
+Chiapas,Bagre,filetes
+No especificado,Robalo,pescado
+Tamaulipas,Pulpo s/vísceras,moluscos
+Veracruz,Pargo coconaco,pescado
+Tabasco,Mojarra blanca,pescado
+Importación,Camarón grande c/cabeza,crustaceos
+Sonora,Almeja chocolata,moluscos
+Campeche,Ratón,pescado
+Tamaulipas,Baqueta,pescado
+Yucatán,Camarones U12,crustaceos
+Tamaulipas,Cherna aleta amarilla,filetes
+Tamaulipas,Sargo,filetes
+Tamaulipas,Robalo,filetes
+Tlaxcala,Ostión con concha,moluscos
+Tamaulipas,Caracol chico,moluscos
+Aguascalientes,Camarón coctel,crustaceos
+Importación,Robaleta,filetes
+Colima,Camarón mediano c/cabeza,crustaceos
+Distrito Federal,Pulpo congelado,moluscos
+Michoacán,Robalo chico,pescado
+Aguascalientes,Huachinango grande,pescado
+Distrito Federal,Filete de cazón o tiburón,filetes
+Distrito Federal,Filete de huachinango,filetes
+Distrito Federal,Filete de mero,filetes
+Tamaulipas,Raya,filetes
+Distrito Federal,Filete de tilapia,filetes
+Sonora,Sierra del Golfo,pescado
+Tamaulipas,Mojarra plateada,pescado
+Nuevo León,Huachinango Golfo,pescado
+Nuevo León,Pampano,pescado
+Nuevo León,Robalo chico,pescado
+Chiapas,Robalo,filetes
+Aguascalientes,Langostino,crustaceos
+Jalisco,Pargo coconaco,pescado
+Sinaloa,Cojinuda,pescado
+No especificado,Calamar americano,moluscos
+No especificado,Ostión sin concha,moluscos
+Aguascalientes,Curbina,pescado
+Tabasco,Mantarraya,pescado
+Importación,Camarón Macuil,crustaceos
+Oaxaca,Sierra del Golfo,pescado
+Oaxaca,Pargo blanco,pescado
+Tabasco,Baqueta,pescado
+Baja California,Bonito,filetes
+Baja California,Filete de tilapia,filetes
+Tamaulipas,Chopa,filetes
+Tamaulipas,Pargo,filetes
+Tamaulipas,Ronco amarillo,filetes
+Baja California,Cintilla,pescado
+Chiapas,Camarón Macuil,crustaceos
+Guerrero,Langosta,crustaceos
+Yucatán,Camarones 51/60,crustaceos
+Aguascalientes,Camarón chico c/cabeza,crustaceos
+Aguascalientes,Camarón chico s/cabeza,crustaceos
+Aguascalientes,Camarón grande s/cabeza,crustaceos
+Aguascalientes,Camarón mediano c/cabeza,crustaceos
+Aguascalientes,Camarón mediano s/cabeza,crustaceos
+Aguascalientes,Jaiba en pulpa,crustaceos
+Tabasco,Torito,pescado
+Jalisco,Bacoca,pescado
+Michoacán,Almeja chirla,moluscos
+Nuevo León,Camarón coctel,crustaceos
+Nuevo León,Camarón Macuil,crustaceos
+Nuevo León,Camarón mediano s/cabeza,crustaceos
+Nuevo León,Camarón Pacotilla,crustaceos
+Nuevo León,Jaiba en pulpa,crustaceos
+Nuevo León,Jaiba entera,crustaceos
+Aguascalientes,Camarón grande c/cabeza,crustaceos
+Nuevo León,Bandera,pescado
+Nuevo León,Sierra del Golfo,pescado
+Nuevo León,Trucha marina,pescado
+Oaxaca,Lenguado,filetes
+Veracruz,Abadejo,moluscos
+Oaxaca,Pampano,pescado
+Yucatán,Chucumite,pescado
+Yucatán,Robalo chico,pescado
+Tabasco,Mojarra plateada,pescado
+Campeche,Negrillo,pescado
+Yucatán,Negrillo,pescado
+Baja California Sur,Trucha,filetes
+Oaxaca,Mantarraya,pescado
+Jalisco,Cochito o Cochino,pescado
+Aguascalientes,Mero,pescado
+Yucatán,Abadejo,filetes
+Jalisco,Langostino,crustaceos
+Jalisco,Langosta,crustaceos
+Michoacán,Curbina,filetes
+Oaxaca,Besugo,pescado
+Campeche,Chucumite,pescado
+Tabasco,Chucumite,pescado
+Sinaloa,Tolete,pescado
+Michoacán,Lenguado grande,pescado
+Tamaulipas,Torito,pescado
+Oaxaca,Peto o Carito,pescado
+México,Rubia o Biajaiba,pescado
+México,Tiburón sin cabeza,pescado
+Yucatán,Almeja gallo,moluscos
+Baja California,Trucha marina,pescado
+Aguascalientes,Mojarra Marina,pescado
+Guerrero,Sierra del Golfo,pescado
+Aguascalientes,Pargo blanco,pescado
+Aguascalientes,Robalo del pacífico,pescado
+Aguascalientes,Tiburón Majarro sin cabeza,pescado
+Baja California Sur,Almeja negra,moluscos
+Michoacán,Chucumite,filetes
+Baja California Sur,Atún en aceite de oliva,pescado
+Aguascalientes,Camarón Pacotilla,crustaceos
+Tabasco,Cochito o Cochino,pescado
+Distrito Federal,Cazón tripa,pescado
+No especificado,Calamar,filetes
+No especificado,Bagre,filetes
+Importación,Robalo,filetes
+Tamaulipas,Constantino,pescado
+Sonora,Langosta entera cruda,crustaceos
+Michoacán,Robaleta,filetes
+Oaxaca,Robalo,filetes
+Jalisco,Filete de mero,filetes
+Jalisco,Almeja chocolata,moluscos
+Jalisco,Callo de almeja,moluscos
+Nacional,Filete de cazón o tiburón,filetes
+Nacional,Filete de huachinango,filetes
+Nacional,Filete de mero,filetes
+Nacional,Filete de tilapia,filetes
+Sinaloa,Almeja campeche,moluscos
+Importación,Camarón s/cabeza coctelero de mar,crustaceos
+Michoacán,Cojinuda,pescado
+Tamaulipas,Robalo del pacífico,pescado
+Baja California Sur,Camarón chico c/cabeza,crustaceos
+Tamaulipas,Tolete,pescado
+Nayarit,Conejo,pescado
+Tabasco,Ratón,pescado
+Campeche,Verdillo,pescado
+Campeche,Conejo,pescado
+Sonora,Camarones 16/20,crustaceos
+Sonora,Camarones 21/25,crustaceos
+Sonora,Camarones 26/30,crustaceos
+Sonora,Camarones U15,crustaceos
+México,Cazón con cabeza,pescado
+México,Huachinango Pacífico,pescado
+México,Pargo blanco,pescado
+México,Robalo del pacífico,pescado
+México,Sierra del Pacífico,pescado
+México,Cazón sin cabeza,pescado
+México,Huachinango grande,pescado
+México,Pargo,pescado
+México,Tiburón Majarro sin cabeza,pescado
+Jalisco,Curbina,filetes
+Jalisco,Camarón mediano c/cabeza,crustaceos
+Jalisco,Camarón mediano s/cabeza,crustaceos
+Jalisco,Jaiba entera,crustaceos
+Veracruz,Ronco amarillo,filetes
+Guerrero,Lisa del Pacífico,pescado
+Sinaloa,Mero,pescado
+Tlaxcala,Mojarra Marina,pescado
+Guerrero,Chopa,pescado
+Chiapas,Abadejo,pescado
+Hidalgo,Mojarra plateada,pescado
+Aguascalientes,Langosta,crustaceos
+Guerrero,Langosta entera cocida,crustaceos
+Veracruz,Robalo del pacífico,pescado
+Oaxaca,Cojinuda,pescado
+Chiapas,Pargo Huachinango,pescado
+Importación,Sierra del Golfo,pescado
+Jalisco,Mantarraya,filetes
+Campeche,Mojarra plateada,pescado
+Oaxaca,Chopa,pescado
+Baja California Sur,Medregal,pescado
+Baja California Sur,Cherna aleta amarilla,pescado
+Yucatán,Mantarraya,pescado
+Importación,Camarones 31/35,crustaceos
+Campeche,Langostino,crustaceos
+Guerrero,Camarón Pacotilla,crustaceos
+Tabasco,Almeja negra,moluscos
+Aguascalientes,Almeja chocolata,moluscos
+Michoacán,Aleta de raya,pescado
+Sonora,Constantino,pescado
+Chiapas,Tenazas de cangrejo,crustaceos
+Nayarit,Jaiba en pulpa,crustaceos
+Tlaxcala,Almeja gallo,moluscos
+Tlaxcala,Almeja negra,moluscos
+Tlaxcala,Caracol,moluscos
+Tlaxcala,Caracol burro,moluscos
+Tlaxcala,Caracol chico,moluscos
+Tlaxcala,Pulpo c/vísceras,moluscos
+Tlaxcala,Pulpo fresco,moluscos
+Tlaxcala,Pulpo s/vísceras,moluscos
+Aguascalientes,Besugo,pescado
+Chiapas,Langosta,crustaceos
+Veracruz,Mantarraya,filetes
+Sonora,Robalo chico,pescado
+Campeche,Tiburon c/cabeza,pescado
+Aguascalientes,Calamar americano,moluscos
+Aguascalientes,Ostión con concha,moluscos
+Jalisco,Lenguado,filetes
+No especificado,Trucha,filetes
+Guerrero,Jaiba en pulpa,crustaceos
+Colima,Cazón tripa,pescado
+Campeche,Ostión sin concha,filetes
+Michoacán,Cola de langosta,crustaceos
+Michoacán,Chucumite,pescado
+Baja California,Negrillo,pescado
+Chiapas,Lisa,filetes
+Jalisco,Constantino,pescado
+Aguascalientes,Baqueta,pescado
+Aguascalientes,Gurrubata,pescado
+Aguascalientes,Mantarraya,pescado
+Aguascalientes,Pargo coconaco,pescado
+Aguascalientes,Ratón,pescado
+No especificado,Bonito,filetes
+Nayarit,Abulón,moluscos
+Nayarit,Pulpo congelado,moluscos
+Chiapas,Acamaya cruda,crustaceos
+Importación,Plateado,filetes
+Nuevo León,Robalo,pescado
+Campeche,Chano,pescado
+Campeche,Cola de langosta,crustaceos
+Campeche,Langosta entera cruda,crustaceos
+Nuevo León,Langosta entera cocida,crustaceos
+Nuevo León,Camarón chico s/cabeza,crustaceos
+Nuevo León,Camarón grande s/cabeza,crustaceos
+Nuevo León,Camarones 16/20,crustaceos
+Nuevo León,Camarones 26/30,crustaceos
+Nuevo León,Camarones 31/35,crustaceos
+Nuevo León,Camarones 41/50,crustaceos
+Nuevo León,Camarones 51/60,crustaceos
+Nuevo León,Camarones U10,crustaceos
+Nuevo León,Camarones U12,crustaceos
+Nuevo León,Camarones U15,crustaceos
+Jalisco,Robalo,pescado
+Tabasco,Caracol chico,moluscos
+Quintana Roo,Caracol,moluscos
+Nuevo León,Ancas de rana,moluscos
+Yucatán,Cazón tripa,filetes
+Jalisco,Robalo chico,pescado
+Chiapas,Bonito,pescado
+Chiapas,Peto o Carito,pescado
+Aguascalientes,Atún,pescado
+Jalisco,Camarón grande s/cabeza,crustaceos
+Aguascalientes,Cazón tripa,pescado
+Aguascalientes,Cóndor,pescado
+Aguascalientes,Conejo,pescado
+Aguascalientes,Lenguado chico,pescado
+Aguascalientes,Lisa macho,pescado
+Aguascalientes,Pierna,pescado
+Aguascalientes,Tiburon c/cabeza,pescado
+Nuevo León,Camarones 21/25,crustaceos
+Aguascalientes,Lucero,pescado
+Campeche,Robalo del pacífico,pescado
+Nacional,Lisa del Pacífico,pescado
+Michoacán,Besugo,pescado
+Campeche,Cherna aleta amarilla,crustaceos
+Campeche,Jaiba entera,moluscos
+Veracruz,Abadejo,filetes
+Chiapas,Camarón s/cabeza coctelero de mar,crustaceos
+Zacatecas,Besugo,pescado
+Aguascalientes,Lisa,filetes
+Aguascalientes,Mojarra blanca,filetes
+San Luis Potosí,Camarón coctel,crustaceos
+San Luis Potosí,Camarón grande c/cabeza,crustaceos
+San Luis Potosí,Camarón grande s/cabeza,crustaceos
+San Luis Potosí,Camarón mediano c/cabeza,crustaceos
+San Luis Potosí,Jaiba en pulpa,crustaceos
+San Luis Potosí,Jaiba entera,crustaceos
+Chiapas,Camarones 21/25,crustaceos
+Tabasco,Vaqueta,pescado
+Aguascalientes,Lebrancha,pescado
+Aguascalientes,Trucha marina,pescado
+Aguascalientes,Negrillo,pescado
+Zacatecas,Conejo,pescado
+Zacatecas,Gurrubata,pescado
+Zacatecas,Huachinango Golfo,pescado
+Zacatecas,Lenguado chico,pescado
+Zacatecas,Ratón,pescado
+Zacatecas,Rubia o Biajaiba,pescado
+Nuevo León,Sargo,pescado
+Chiapas,Cherna aleta amarilla,filetes
+Chiapas,Lenguado,filetes
+Chiapas,Medregal,filetes
+Veracruz,Lobina,filetes
+Tlaxcala,Acamaya cruda,crustaceos
+Chiapas,Cojinuda,pescado
+Chiapas,Cherna aleta amarilla,pescado
+Chiapas,Pargo rojo,pescado
+Chiapas,Rubia o Biajaiba,pescado
+Michoacán,Mantarraya,pescado
+Campeche,Jaiba entera,pescado
+Nayarit,Medregal,pescado
+Nayarit,Mero,pescado
+Veracruz,Camarón Pacotilla,pescado
+Sinaloa,Abadejo,filetes
+Veracruz,Camarón Pacotilla,moluscos
+Oaxaca,Almeja campeche,moluscos
+Importación,Langosta,crustaceos
+Aguascalientes,Camaron p/bar y bot,crustaceos
+Aguascalientes,Camarón roca,crustaceos
+Tlaxcala,Angelito,pescado
+Tlaxcala,Bandera,pescado
+Tlaxcala,Besugo,pescado
+Tlaxcala,Bonito,pescado
+Tlaxcala,Cazón sin cabeza,pescado
+Tlaxcala,Curbina,pescado
+Tlaxcala,Huachinango Golfo,pescado
+Tlaxcala,Jurel,pescado
+Tlaxcala,Medregal,pescado
+Tlaxcala,Negrillo,pescado
+Tlaxcala,Pampano,pescado
+Tlaxcala,Peto o Carito,pescado
+Tlaxcala,Robalo,pescado
+Tlaxcala,Sargo,pescado
+Tlaxcala,Mantarraya,pescado
+Sonora,Ostión con concha,moluscos
+Campeche,Sierra del Golfo,crustaceos
+Morelos,Lisa del Pacífico,pescado
+Morelos,Mantarraya,pescado
+Morelos,Pargo blanco,pescado
+Morelos,Pargo coconaco,pescado
+Morelos,Robalo del pacífico,pescado
+Morelos,Sierra del Pacífico,pescado
+Morelos,Tiburón Majarro sin cabeza,pescado
+Campeche,Sierra del Golfo,moluscos
+Importación,Camarones 21/25,crustaceos
+Importación,Camarones 26/30,crustaceos
+Chiapas,Camarones U12,crustaceos
+Chiapas,Almeja chirla,moluscos
+Colima,Ostión con concha,moluscos
+Sinaloa,Chopa,pescado
+Chiapas,Camaron p/bar y bot,crustaceos
+Michoacán,Caracol,moluscos
+Baja California,Lebrancha,pescado
+Aguascalientes,Camarones U12,crustaceos
+Sonora,Almeja negra,moluscos
+Michoacán,Callo de hacha,moluscos
+Chiapas,Caracol burro,moluscos
+Tabasco,Caracol burro,moluscos
+Chiapas,Almeja pata de mula,moluscos
+Yucatán,Tenazas de cangrejo,moluscos
+Campeche,Camarón chico c/cabeza,pescado
+Michoacán,Abadejo,pescado
+Guerrero,Cochito o Cochino,pescado
+Chiapas,Sargo,pescado
+Sinaloa,Negrillo,pescado
+Jalisco,Robalo del pacífico,pescado
+Jalisco,Lisa del Golfo,pescado
+Campeche,Cochito o Cochino,pescado
+San Luis Potosí,Langostino,crustaceos
+Chiapas,Mantarraya,filetes
+Jalisco,Jurel,pescado
+Jalisco,Mantarraya,pescado
+Jalisco,Pargo blanco,pescado
+Chiapas,Caracol chico,moluscos
+Nayarit,Peto o Carito,pescado
+Campeche,Curbina,moluscos
+Nayarit,Lucero,pescado
+Distrito Federal,Jaiba en pulpa,crustaceos
+Distrito Federal,Jaiba entera,crustaceos
+Aguascalientes,Cochito o Cochino,pescado
+Aguascalientes,Pargo rojo,pescado
+San Luis Potosí,Bacoca,pescado
+San Luis Potosí,Bandera,pescado
+San Luis Potosí,Cazón sin cabeza,pescado
+San Luis Potosí,Cochito o Cochino,pescado
+San Luis Potosí,Curbina,pescado
+San Luis Potosí,Gurrubata,pescado
+San Luis Potosí,Huachinango grande,pescado
+San Luis Potosí,Huachinango Pacífico,pescado
+San Luis Potosí,Jurel,pescado
+San Luis Potosí,Lenguado grande,pescado
+San Luis Potosí,Lisa del Pacífico,pescado
+San Luis Potosí,Mojarra plateada,pescado
+San Luis Potosí,Pampano,pescado
+San Luis Potosí,Pierna,pescado
+San Luis Potosí,Robalo del pacífico,pescado
+San Luis Potosí,Sierra del Pacífico,pescado
+Sinaloa,Bacalao,pescado
+Local,Sierra del Golfo,pescado
+Importación,Almeja chocolata,moluscos
+Distrito Federal,Almeja chocolata,moluscos
+Global,Ostión sin concha,moluscos
+Nayarit,Langosta,crustaceos
+Nayarit,Lenguado,filetes
+Morelos,Cazón con cabeza,pescado
+Michoacán,Lenguado,filetes
+Sinaloa,Lisa,filetes
+Sinaloa,Plateado,filetes
+Michoacán,Pargo coconaco,crustaceos
+Michoacán,Pargo coconaco,moluscos
+Tamaulipas,Medregal,filetes
+Baja California,Curbina,filetes
+Veracruz,Lisa,filetes
+No especificado,Camarón grande c/cabeza,crustaceos
+Colima,Angelito,pescado
+Michoacán,Lisa macho,pescado
+Oaxaca,Ratón,pescado
+Chiapas,Camarones 26/30,crustaceos
+Baja California,Tiburón Majarro sin cabeza,pescado
+Yucatán,Filete de mero,crustaceos
+Yucatán,Camarones 16/20,pescado
+Yucatán,Mantarraya,filetes
+Nuevo León,Huachinango Pacífico,pescado
+Michoacán,Ostión con concha,crustaceos
+Chiapas,Abulón,moluscos
+Nayarit,Almeja negra,moluscos
+Chiapas,Pulpo s/vísceras,moluscos
+Veracruz,Negrillo,filetes
+Yucatán,Caracol,filetes
+Tamaulipas,Almeja pata de mula,moluscos
+Veracruz,Lisa del Golfo,crustaceos
+Morelos,Jurel,pescado
+Morelos,Huachinango Pacífico,pescado
+Sonora,Torito,pescado
+Baja California,Camarón Pacotilla,crustaceos
+Distrito Federal,Constantino,pescado
+Nuevo León,Camarón s/cabeza coctelero de mar,crustaceos
+Veracruz,Lisa del Golfo,moluscos
+No especificado,Callo de hacha,moluscos
+Campeche,Cherna aleta prieta,filetes
+Distrito Federal,Huachinango Pacífico,pescado
+Jalisco,Atún,pescado
+Quintana Roo,Mantarraya,pescado
+Campeche,Acamaya cruda,crustaceos
+Veracruz,Sargo,filetes
+Sonora,Sargo,pescado
+Sinaloa,Bonito,pescado
+Nayarit,Calamar americano,moluscos
+No especificado,Mero,pescado
+Nacional,Pargo,pescado
+No especificado,Langostino,crustaceos
+Nacional,Robalo,pescado
+No especificado,Curbina,filetes
+No especificado,Caracol,moluscos
+Nacional,Curbina,pescado
+Tamaulipas,Pulpo c/vísceras,moluscos
+Campeche,Cazón con cabeza,moluscos
+Yucatán,Acamaya cruda,crustaceos
+Oaxaca,Pulpo s/vísceras,moluscos
+Michoacán,Lebrancha,pescado
+Nayarit,Tolete,pescado
+Importación,Camarones U15,crustaceos
+Local,Curbina,pescado
+Local,Pargo,pescado
+Local,Robalo,pescado
+No especificado,Camarón grande s/cabeza,crustaceos
+No especificado,Camarón mediano s/cabeza,crustaceos
+No especificado,Almeja pata de mula,moluscos
+No especificado,Mojarra blanca,filetes
+Jalisco,Abadejo,filetes
+Baja California,Tenazas de cangrejo,crustaceos
+No especificado,Cazón sin cabeza,pescado
+No especificado,Tiburón sin cabeza,pescado
+Sonora,Payaso,pescado
+Morelos,Curbina,pescado
+Morelos,Pargo,pescado
+Jalisco,Almeja pata de mula,moluscos
+Oaxaca,Camarones 41/50,crustaceos
+Oaxaca,Camarones 31/35,crustaceos
+Nayarit,Camarón Macuil,crustaceos
+Nayarit,Calamar gigante,moluscos
+Chiapas,Lisa macho,pescado
+Chiapas,Tiburon c/cabeza,pescado
+No especificado,Aleta de raya,pescado
+Baja California Sur,Lebrancha,pescado
+Nayarit,Ancas de rana,moluscos
+Oaxaca,Trucha,filetes
+Jalisco,Filete de cazón o tiburón,filetes
+Chiapas,Pargo,filetes
+Chiapas,Raya,filetes
+Veracruz,Camarón chico c/cabeza,pescado
+Nayarit,Marlín,pescado
+Jalisco,Pargo rojo,pescado
+Oaxaca,Lucero,pescado
+Baja California,Tolete,pescado
+Oaxaca,Acamaya cruda,crustaceos
+Guerrero,Pargo rojo,pescado
+Sonora,Cola de langosta,crustaceos
+No especificado,Camarón coctel,crustaceos
+Veracruz,Almeja chirla,filetes
+Yucatán,Langosta entera cocida,crustaceos
+No especificado,Camarón Pacotilla,crustaceos
+Chiapas,Constantino,pescado
+Michoacán,Rubia o Biajaiba,pescado
+Oaxaca,Lenguado chico,pescado
+Baja California Sur,Caracol chico,moluscos
+Oaxaca,Lenguado grande,pescado
+Oaxaca,Atún,pescado
+Nayarit,Angelito,pescado
+Nayarit,Payaso,pescado
+Guanajuato,Camarón chico c/cabeza,crustaceos
+Guanajuato,Camarón coctel,crustaceos
+Guanajuato,Almeja chirla,moluscos
+Guanajuato,Pulpo fresco,moluscos
+Guanajuato,Pulpo congelado,moluscos
+Baja California Sur,Camarones 51/60,crustaceos
+Guanajuato,Filete de tilapia,filetes
+Yucatán,Bagre,filetes
+Guerrero,Mantarraya,filetes
+Zacatecas,Filete de tilapia,filetes
+Guerrero,Callo de hacha,moluscos
+Sonora,Pargo coconaco,pescado
+Yucatán,Cazón con cabeza,moluscos
+Morelos,Ancas de rana,moluscos
+Importación,Caracol chico,moluscos
+Baja California Sur,Cherna aleta amarilla,filetes
+Baja California Sur,Mojarra blanca,filetes
+Baja California Sur,Ronco amarillo,filetes
+Importación,Jaiba entera,crustaceos
+Importación,Jaiba en pulpa,crustaceos
+Baja California Sur,Camarón s/cabeza coctelero de mar,crustaceos
+Baja California Sur,Tenazas de cangrejo,crustaceos
+Nayarit,Lobina,filetes
+Tabasco,Callo de hacha,moluscos
+Baja California,Sardina,pescado
+Nacional,Huachinango Golfo,pescado
+Importación,Huachinango Golfo,pescado
+Campeche,Ostión sin concha,pescado
+Local,Huachinango Golfo,pescado
+Campeche,Ostión sin concha,crustaceos
+Veracruz,Tilapia chica,pescado
+Nacional,Huachinango grande,pescado
+Oaxaca,Camarones 51/60,crustaceos
+México,Ostión con concha,moluscos
+México,Pulpo fresco,moluscos
+Importación,Camarones U10,crustaceos
+Nayarit,Mojarra blanca,pescado
+Nayarit,Pulpo s/vísceras,moluscos
+Nacional,Mojarra Marina,pescado
+Chiapas,Abadejo,filetes
+Sonora,Camarón c/cabeza mediana,crustaceos
+Tamaulipas,Abadejo,filetes
+Yucatán,Cabrillo,pescado
+Nayarit,Cojinuda,pescado
+Yucatán,Calamar americano,filetes
+México,Jurel,pescado
+México,Lisa del Pacífico,pescado
+México,Mantarraya,pescado
+México,Pargo coconaco,pescado
+México,Langosta,crustaceos
+México,Langostino,crustaceos
+Campeche,Medregal,moluscos
+Veracruz,Tilapia chica,moluscos
+Campeche,Medregal,crustaceos
+Baja California,Chopa,pescado
+Tabasco,Angelito,pescado
+Tabasco,Sargo,pescado
+Veracruz,Almeja negra,crustaceos
+Nacional,Callo de almeja,moluscos
+No especificado,Mantarraya,pescado
+No especificado,Pargo blanco,pescado
+No especificado,Pargo coconaco,pescado
+No especificado,Sierra del Pacífico,pescado
+Veracruz,Ostión sin concha,pescado
+Importación,Langosta entera cocida,crustaceos
+Importación,Camarones 16/20,crustaceos
+Importación,Camarones U12,crustaceos
+No especificado,Robalo del pacífico,pescado
+Yucatán,Robalo,filetes
+Nayarit,Curbina,filetes
+Nayarit,Camarón chico c/cabeza,filetes
+No especificado,Mojarra Marina,pescado
+Baja California,Abadejo,filetes
+Jalisco,Angelito,pescado
+Jalisco,Baqueta,pescado
+Jalisco,Guitarra,pescado
+Jalisco,Lucero,pescado
+Jalisco,Torito,pescado
+Jalisco,Verdillo,pescado
+Campeche,Cherna aleta amarilla,moluscos
+Campeche,Pulpo fresco,pescado
+Veracruz,Negrillo,crustaceos
+No especificado,Curbina,pescado
+Veracruz,Almeja chirla,crustaceos
+Veracruz,Negrillo,moluscos
+Nayarit,Camarón roca,crustaceos
+Campeche,Camarón chico c/cabeza,moluscos
+Nayarit,Camarón chico c/cabeza,pescado
+Yucatán,Curbina,crustaceos
+Nacional,Ostión sin concha,moluscos
+Nacional,Pulpo congelado,moluscos
+Nacional,Callo de hacha,moluscos
+Nacional,Ostión con concha,moluscos
+Nayarit,Callo de almeja,moluscos
+Colima,Camarón grande c/cabeza,crustaceos
+Colima,Camarones 21/25,crustaceos
+Colima,Camarones 26/30,crustaceos
+Colima,Camarones 41/50,crustaceos
+Baja California,Camarones U15,crustaceos
+Importación,Tenazas de cangrejo,crustaceos
+Colima,Camarones 16/20,crustaceos
+Colima,Camarón Pacotilla,crustaceos
+Nayarit,Camarones 26/30,crustaceos
+Colima,Camarones 31/35,crustaceos
+Colima,Camarones U10,crustaceos
+Colima,Camarones U12,crustaceos
+Colima,Camarones U15,crustaceos
+Nayarit,Tenazas de cangrejo,crustaceos
+Campeche,Almeja campeche,moluscos
+Nayarit,Callo de hacha,moluscos
+Nayarit,Trucha,filetes
+Nayarit,Ancas de rana,filetes
+Baja California,Bacalao,filetes
+Nayarit,Robalo,filetes
+Oaxaca,Lobina,filetes
+Baja California,Bacalao,pescado
+Importación,Lenguado grande,pescado
+Nacional,Pampano,pescado
+Importación,Sardina,pescado
+Importación,Mojarra plateada,pescado
+Nayarit,Sardina,pescado
+Nacional,Bacalao,pescado
+Nacional,Lenguado grande,pescado
+Nacional,Mojarra blanca,pescado
+Nacional,Sierra del Golfo,pescado
+Sonora,Curbina,filetes
+Nacional,Lenguado,filetes
+Nacional,Mojarra blanca,filetes
+Nacional,Robalo,filetes
+Importación,Abulón,moluscos
+Nacional,Caracol,moluscos
+Nacional,Pulpo fresco,moluscos
+Colima,Camarones 51/60,crustaceos
+No especificado,Jaiba entera,crustaceos
+Yucatán,Rubia o Biajaiba,crustaceos
+Yucatán,Rubia o Biajaiba,moluscos
+Campeche,Pulpo fresco,filetes
+Nayarit,Trucha marina,pescado
+Sonora,Lisa del Golfo,pescado
+Jalisco,Cola de langosta,crustaceos
+Nayarit,Sargo,pescado
+Nayarit,Bacalao,pescado
+Chiapas,Camarones U15,crustaceos
+Nayarit,Camarón chico s/cabeza,crustaceos
+Chiapas,Camarones 16/20,crustaceos
+Chiapas,Camarones 31/35,crustaceos
+Chiapas,Camarones 41/50,crustaceos
+Nayarit,Pargo Huachinango,pescado
+Nacional,Camarón mediano s/cabeza,crustaceos
+Nacional,Camarones 16/20,crustaceos
+Nacional,Camarones 21/25,crustaceos
+Nacional,Camarones 26/30,crustaceos
+Nacional,Camarones 31/35,crustaceos
+Nacional,Camarones 41/50,crustaceos
+No especificado,Rubia o Biajaiba,pescado
+Nacional,Sardina,pescado
+Baja California Sur,Torito,pescado
+Colima,Curbina,pescado
+Baja California Sur,Bacalao,pescado
+Jalisco,Calamar americano,moluscos
+Baja California Sur,Abadejo,filetes
+Nayarit,Cola de langosta,crustaceos
+Nacional,Calamar americano,moluscos
+Guanajuato,Bacalao,pescado
+Origen,Producto,category
